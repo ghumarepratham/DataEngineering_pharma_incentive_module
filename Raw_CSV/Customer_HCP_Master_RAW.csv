@@ -1,0 +1,731 @@
+﻿customer_id,customer_name,customer_type,specialty,hospital_name,city,state,zone,registration_no,status,onboarding_date,tier,created_at,updated_at,ad_hoc_col
+C300001,City Bose Clinic,Hospital,Pulmonologist,Manipal Silchar,Silchar,Assam,East,REG895655,Active,2018-06-21,C,2024-05-06 19:04:35,2026-01-11 17:26:42,Needs clean-up
+C300002,Care Gupta Clinic,Hospital,Gastroenterologist,Apollo Ahmedabad,Ahmedabad,Gujarat,West,REG761408,Active,2021-08-11,B,2024-02-03 07:17:49,2025-01-31 03:16:44,Legacy mapped
+C300003,City Jain Clinic,Chemist,,,Faridabad,Haryana,North,REG520637,Active,2023-03-30,B,2024-01-08 06:12:23,2025-08-24 01:18:17,Unverified
+C300004,Hospital Mehta Hospital,Chemist,,,Muzaffarpur,Bihar,East,REG210365,Active,2023-06-17,B,2024-08-23 18:21:30,2025-11-25 09:10:48,
+C300005,Prime Mishra Pharmacy,Hospital,Pulmonologist,Fortis Udaipur,Udaipur,Rajasthan,Central,REG178217,Active,07/29/2021,B,2023-12-22 08:42:24,2025-05-28 05:37:38,Needs clean-up
+C300006,Hospital Chawla Medicals,Chemist,,,Warangal,Telangana,South,REG901818,Active,2021-01-15,A,2023-01-05 01:29:20,2026-02-19 03:16:23,
+C300007,City Gupta Care,Hospital,Gastroenterologist,Care Bilaspur,Bilaspur,Chhattisgarh,Central,REG684796,Active,2019-03-17,A,2023-02-22 23:32:05,2025-03-13 08:25:19,Legacy mapped
+C300008,Care Singh Care,Hospital,Dermatologist,Fortis Durg,Durg,Chhattisgarh,West,REG762599,Active,2025-04-05,C,2025-03-08 03:46:01,2025-07-13 19:40:26,Legacy mapped
+C300009,Prime Patel Medicals,Hospital,Cardiologist,Global Vasco da Gama,Vasco da Gama,Goa,West,REG759371,Active,2021-10-06,A,2024-06-29 14:05:22,2025-10-25 00:06:06,Legacy mapped
+C300010,Life Verma Care,Doctor,Oncologist,Apollo Kolkata,Kolkata,West Bengal,East,REG603943,Active,2023-12-19,C,2025-05-01 16:14:40,2025-03-10 03:59:11,
+C300011,Hospital Agarwal Care,Chemist,,,Patna,Bihar,Central,REG899916,Active,2024-02-21,B,2025-10-31 08:10:02,2025-02-01 20:04:18,
+C300012,Dr. Das Clinic,Clinic,Pulmonologist,Max Patna,Patna,Bihar,East,REG984936,Active,2025-01-21,B,2025-01-24 05:33:45,2026-03-08 10:47:38,Unverified
+C300013,Hospital Das Medicals,Clinic,Gastroenterologist,Global Vasco da Gama,Vasco da Gama,Goa,West,REG456530,Active,2022-04-06,C,2025-12-30 06:24:28,2025-08-11 00:30:19,
+C300014,City Joshi Care,Chemist,,,Panipat,Haryana,North,REG957009,Active,2019-08-27,B,2025-06-07 23:01:55,2025-03-10 16:22:49,Needs clean-up
+C300015,Hospital Agarwal Hospital,Clinic,General Physician,Aster Gaya,Gaya,Bihar,Central,,Active,2025-12-10,A,2023-06-28 01:05:32,2025-05-29 04:24:10,Legacy mapped
+C300016,Hope Sharma Clinic,Doctor,Pulmonologist,Narayana Vasco da Gama,Vasco da Gama,Goa,West,REG163842,Active,2023-10-21,C,2024-04-24 10:25:23,2025-05-04 10:10:51,Unverified
+C300017,Prime Bose Pharmacy,Doctor,Neurologist,Narayana Visakhapatnam,Visakhapatnam,Andhra Pradesh,South,REG438421,Active,2019-10-30,C,2024-12-23 23:58:47,2025-03-21 10:04:10,Legacy mapped
+C300018,Prime Kulkarni Care,Clinic,Dermatologist,Care Silchar,Silchar,Assam,East,REG910400,Active,2022/05/22,C,2023-12-25 19:17:36,2025-12-18 13:20:56,Legacy mapped
+C300019,City Kulkarni Medicals,Chemist,,,Thiruvananthapuram,Kerala,South,REG959761,Active,2020-01-08,A,2025-06-15 00:03:35,2025-05-15 02:21:36,
+C300020,Life Jain Clinic,Chemist,,,Hyderabad,Telangana,South,REG172551,Active,2023-10-28,B,2025-02-07 22:15:21,2025-03-24 19:18:26,
+C300021,Dr. Mehta Care,Hospital,Dermatologist,Max Rourkela,Rourkela,Odisha,East,,Active,2021-07-28,A,2023-05-22 16:38:31,2025-09-27 15:12:28,Legacy mapped
+C300022,Hope Singh Clinic,Chemist,,,Durg,Chhattisgarh,Central,REG207384,Active,2022-05-25,A,2025-02-26 01:15:12,2026-03-01 23:51:43,Legacy mapped
+C300023,Dr. Pillai Hospital,Chemist,,,Jodhpur,Rajasthan,North,REG550767,Active,07 Mar 2017,C,2024-02-12 02:14:30,2025-10-11 17:03:46,Legacy mapped
+C300024,Life Kapoor Pharmacy,Clinic,Oncologist,Care Gurugram,Gurugram,Delhi,North,REG994762,Active,2022-02-12,B,2024-09-29 11:22:19,2025-06-19 19:56:03,Legacy mapped
+C300025,Hospital Agarwal Care,Chemist,,,Guwahati,Assam,East,REG500365,Active,2021-03-02,A,2024-04-26 01:34:39,2026-01-10 04:12:44,Legacy mapped
+C300026,Care Pillai Hospital,Doctor,Neurologist,Apollo Bengaluru,Bengaluru,Karnataka,South,REG250214,Active,22/07/2018,A,2025-02-28 14:18:45,2025-02-24 10:40:07,Unverified
+C300027,Dr. Kapoor Hospital,Hospital,Dermatologist,Manipal Silchar,Silchar,Assam,East,REG367361,Active,2023-06-30,B,2024-05-25 01:11:37,2025-05-25 01:27:36,Unverified
+C300028,Hospital Gupta Hospital,Doctor,Diabetologist,Manipal Surat,Surat,Gujarat,West,REG905736,Active,2019-01-11,C,2024-06-25 16:49:35,2025-11-05 02:37:42,Unverified
+C300029,Hope Kulkarni Care,Chemist,,,Lucknow,Uttar Pradesh,Central,REG389719,Active,2024-05-14,B,2024-09-03 13:16:49,2025-06-14 04:15:52,
+C300030,Care Nair Medicals,Hospital,Neurologist,Yashoda Gurugram,Gurugram,Haryana,North,REG368064,Active,2017/10/11,C,2025-08-20 15:38:43,2025-06-27 01:07:57,Unverified
+C300031,Life Nair Hospital,Clinic,Oncologist,Max Bhopal,Bhopal,Madhya Pradesh,West,REG831569,Active,2020-06-22,C,2023-06-07 14:30:57,2025-12-31 01:53:40,Needs clean-up
+C300032,City Gupta Care,Doctor,Dermatologist,Manipal Nizamabad,Nizamabad,Telangana,South,REG113187,Active,2018-06-07,C,2023-06-29 12:56:17,2025-06-29 15:20:53,Legacy mapped
+C300033,Prime Nair Medicals,Hospital,Diabetologist,Care Margao,Margao,Goa,West,REG626514,Active,25 Dec 2020,A,2025-05-16 12:33:59,2025-09-18 02:22:22,Needs clean-up
+C300034,Dr. Kapoor Pharmacy,Clinic,Dermatologist,Global Faridabad,Faridabad,Haryana,North,REG145244,Active,2025-05-15,A,2025-03-05 08:26:40,2025-01-08 10:36:56,Unverified
+C300035,Prime Patel Clinic,Doctor,Dermatologist,Narayana Durgapur,Durgapur,West Bengal,East,REG297006,Active,2021-03-02,A,2025-11-12 04:23:25,2025-11-07 12:04:37,Legacy mapped
+C300036,Prime Mishra Medicals,Clinic,Dermatologist,Aster Jalandhar,Jalandhar,Punjab,North,REG680330,Active,2025-06-15,C,2025-04-16 23:12:05,2025-10-20 13:59:14,
+C300037,City Singh Pharmacy,Chemist,,,Cuttack,Odisha,East,REG292101,Active,2023-04-27,C,2023-06-10 13:16:08,2025-05-01 00:07:08,Needs clean-up
+C300038,Life Yadav Clinic,Doctor,General Physician,Global Dhanbad,Dhanbad,Jharkhand,East,REG965594,Active,2022-03-27,C,2023-02-04 16:23:42,2025-06-27 07:51:24,
+C300039,Life Singh Hospital,Doctor,Oncologist,Manipal Ahmedabad,Ahmedabad,Gujarat,West,REG469922,Active,2023-12-16,C,2024-08-15 05:49:38,2025-09-24 09:51:04,
+C300040,Prime Iyer Pharmacy,Hospital,General Physician,Manipal Durgapur,Durgapur,West Bengal,East,REG423525,Active,12/26/2021,C,2025-02-19 06:47:50,2025-06-16 04:43:46,Legacy mapped
+C300041,DR. GUPTA medicals,Hospital,Cardiologist,Global Ranchi,Ranchi,Jharkhand,East,REG798557,Blacklisted,2024-06-01,A,2024-11-16 06:58:41,2025-12-07 02:45:06,
+C300042,Prime Chawla Care,Clinic,Gastroenterologist,Manipal Kochi,Kochi,Kerala,South,REG544490,Active,2024-04-20,C,2024-09-14 15:11:32,2025-02-07 20:15:10,Needs clean-up
+C300043,Dr. Singh Clinic,Chemist,,,Dibrugarh,Assam,East,REG151640,Active,2023-09-29,B,2023-03-05 07:31:23,2025-04-22 11:40:44,Legacy mapped
+C300044,Hospital Bose Hospital,Chemist,,,Ludhiana,Punjab,North,REG710320,Active,15 Oct 2025,A,2023-04-22 11:25:32,2025-08-21 17:03:29,
+C300045,Prime Chawla Hospital,Chemist,,,Visakhapatnam,Andhra Pradesh,South,REG624809,Active,2023-09-22,C,2024-05-02 16:32:57,2025-03-28 00:58:45,
+C300046,Life Kapoor Hospital,Clinic,Gastroenterologist,Manipal Siliguri,Siliguri,West Bengal,East,REG189022,Active,2021-08-23,B,2023-10-09 16:57:10,2025-03-10 22:51:48,Needs clean-up
+C300047,City Kulkarni Care,Chemist,,,Udaipur,Rajasthan,North,REG690058,Active,2023-07-06,B,2024-01-24 21:54:47,2026-02-21 08:47:54,Unverified
+C300048,City Gupta Medicals,Doctor,Dermatologist,Aster Indore,Indore,Madhya Pradesh,West,REG456449,Active,2017-05-20,C,2023-07-05 22:23:38,2025-06-27 23:25:47,Needs clean-up
+C300049,Prime Kulkarni Clinic,Chemist,,,Raipur,Chhattisgarh,Central,,Active,2017-12-23,A,2025-07-30 00:26:24,2025-02-24 17:49:20,Legacy mapped
+C300050,hospital sharma clinic,Clinic,General Physician,Manipal Nashik,Nashik,Maharashtra,West,REG675807,Active,2017/02/16,C,2025-05-24 12:54:30,2025-08-08 07:28:10,
+C300051,Hope Gupta Pharmacy,Chemist,,,Vijayawada,Andhra Pradesh,South,REG582345,Active,2024-10-23,A,2024-12-12 12:42:54,2025-06-16 15:51:18,Legacy mapped
+C300052,Care Mehta Pharmacy,Doctor,Gastroenterologist,Manipal Gaya,Gaya,Bihar,Central,REG179581,Active,2017-01-24,C,2024-11-30 08:27:57,2025-10-09 20:34:31,Legacy mapped
+C300053,Dr. Iyer Hospital,Doctor,Dermatologist,Fortis Panipat,Panipat,Haryana,North,REG718446,Active,2021-09-15,A,2024-10-09 08:31:49,2025-09-18 01:43:02,Unverified
+C300054,Prime Mishra Pharmacy,Doctor,General Physician,Narayana Indore,Indore,Madhya Pradesh,Central,REG589523,Active,2017-04-15,C,2023-04-24 01:28:13,2025-09-23 16:20:16,Needs clean-up
+C300055,Care Gupta Pharmacy,Clinic,Pulmonologist,Manipal Vadodara,Vadodara,Gujarat,West,REG767132,Inactive,2020-02-06,A,2024-03-07 03:36:33,2025-06-12 18:24:31,
+C300056,Dr. Agarwal Hospital,Hospital,Cardiologist,Yashoda Raipur,Raipur,Chhattisgarh,Central,REG786550,Active,2024-01-26,A,2023-06-27 18:41:02,2025-04-11 11:38:19,
+C300057,Prime Iyer Hospital,Doctor,Pulmonologist,Global Kanpur,Kanpur,Uttar Pradesh,Central,REG960288,Active,2019-07-24,A,2024-05-20 17:34:45,2025-08-18 21:26:29,Needs clean-up
+C300058,Prime Patel Clinic,Chemist,,,Nashik,Maharashtra,West,REG117506,Active,2022-04-11,C,2024-03-22 17:29:18,2025-05-29 21:44:41,Legacy mapped
+C300059,Hospital Iyer Medicals,Clinic,Oncologist,Global Jaipur,Jaipur,Rajasthan,North,REG958725,Active,26/04/2021,A,2025-11-10 05:56:00,2025-08-30 03:22:59,Unverified
+C300060,HOSPITAL gupta care,Doctor,Neurologist,Yashoda Gwalior,Gwalior,Madhya Pradesh,Central,REG457690,Active,2022-01-27,B,2023-05-27 18:08:45,2026-02-05 21:35:35,Legacy mapped
+C300061,care bose hospital,Clinic,Diabetologist,Manipal Ludhiana,Ludhiana,Punjab,North,REG113567,Active,29/11/2021,C,2025-09-14 03:38:55,2025-11-26 05:17:48,Needs clean-up
+C300062,Dr. Singh Pharmacy,Clinic,Neurologist,Aster Visakhapatnam,Visakhapatnam,Andhra Pradesh,South,REG371333,Active,05/10/2025,B,2024-04-13 14:22:48,2025-04-01 11:28:46,Unverified
+C300063,Hospital Kapoor Medicals,Chemist,,,Dibrugarh,Assam,East,REG217966,Active,2018-03-03,A,2023-08-18 10:47:27,2025-09-01 07:50:14,Unverified
+C300064,City Kapoor Pharmacy,Chemist,,,Faridabad,Haryana,North,REG163212,Active,2022-12-20,A,2024-02-19 16:47:13,2025-02-04 18:14:16,Needs clean-up
+C300065,Hope Kapoor Care,Chemist,,,Kolkata,West Bengal,East,REG882818,Active,2019-04-11,C,2024-05-08 06:49:34,2025-10-23 04:15:19,Unverified
+C300066,Care Patel Hospital,Doctor,Gastroenterologist,Narayana Warangal,Warangal,Telangana,South,REG994676,Active,2018-07-01,B,2024-01-29 17:34:00,2026-02-26 20:12:51,Legacy mapped
+C300067,Dr. Pillai Pharmacy,Clinic,Cardiologist,Yashoda Cuttack,Cuttack,Odisha,East,REG496187,Active,2025-04-02,B,2025-09-12 13:46:51,2025-04-03 06:40:30,
+C300068,Hope Bose Clinic,Clinic,Pulmonologist,Fortis Thiruvananthapuram,Thiruvananthapuram,Kerala,South,REG298401,Inactive,2018-09-27,A,2024-07-28 02:49:50,2025-12-31 05:59:44,Legacy mapped
+C300069,Hospital Agarwal Clinic,Clinic,General Physician,Medanta Kozhikode,Kozhikode,Kerala,South,REG199397,Inactive,2020-10-31,B,2024-07-23 02:53:34,2025-11-10 05:20:34,Legacy mapped
+C300070,care yadav clinic,Hospital,General Physician,Yashoda Gurugram,Gurugram,Haryana,North,REG597909,Active,2023-11-14,A,2024-09-23 14:37:52,2026-01-22 17:24:23,Needs clean-up
+C300071,HOSPITAL NAir hospital,Doctor,Diabetologist,Max Noida,Noida,Uttar Pradesh,North,REG527591,Inactive,2020-04-11,C,2024-03-06 09:28:24,2025-01-26 21:43:33,Legacy mapped
+C300072,Hope Bose Clinic,Chemist,,,Hubballi,Karnataka,South,REG770952,Active,2024-06-14,A,2025-03-15 06:04:25,2025-04-14 07:01:54,Unverified
+C300073,City Yadav Clinic,Hospital,Gastroenterologist,Apollo Mumbai,Mumbai,Maharashtra,West,REG317563,Active,2023-10-30,A,2025-11-21 09:50:56,2025-12-08 15:18:36,
+C300074,Prime Verma Clinic,Hospital,Pulmonologist,Apollo Kanpur,Kanpur,Uttar Pradesh,North,REG823175,Active,2025-08-15,B,2025-06-02 05:48:09,2025-09-26 08:23:53,Unverified
+C300075,Life Chawla Pharmacy,Chemist,,,Siliguri,West Bengal,East,REG469093,Active,2024-02-10,A,2025-11-13 09:33:27,2025-02-10 01:24:46,Needs clean-up
+C300076,CARE KAPOOR MEDICALS,Doctor,Dermatologist,Care New Delhi,New Delhi,Delhi,North,REG792188,Active,2024-02-11,C,2023-08-05 23:24:57,2026-02-25 04:57:19,Unverified
+C300077,Hope Joshi Hospital,Clinic,Dermatologist,Care Noida,Noida,Delhi,North,REG331576,Active,08/11/2017,B,2023-04-25 05:58:43,2025-05-21 04:57:13,Legacy mapped
+C300078,Life Patel Care,Doctor,Pulmonologist,Apollo Muzaffarpur,Muzaffarpur,Bihar,East,REG892670,Active,2017-04-09,A,2024-05-14 21:42:01,2025-06-27 20:59:47,
+C300079,Hope Jain Clinic,Chemist,,,Indore,Madhya Pradesh,West,REG913908,Active,2019-11-10,B,2024-10-10 11:16:47,2026-02-19 02:10:36,Legacy mapped
+C300080,Prime Iyer Medicals,Doctor,Diabetologist,Yashoda Guwahati,Guwahati,Assam,East,REG924325,Active,31 Jul 2023,B,2023-10-12 03:54:28,2025-07-20 17:00:07,Legacy mapped
+C300081,Dr. Jain Care,Chemist,,,Bilaspur,Chhattisgarh,West,REG847063,Active,2023-09-25,A,2024-04-19 19:18:15,2025-01-28 07:52:44,Legacy mapped
+C300082,Care Chawla Pharmacy,Clinic,Diabetologist,Manipal Durgapur,Durgapur,West Bengal,East,REG630399,Inactive,2025-07-05,C,2024-04-20 15:41:25,2025-07-01 08:13:38,Unverified
+C300083,Hospital Sharma Medicals,Hospital,General Physician,Medanta Thiruvananthapuram,Thiruvananthapuram,Kerala,South,REG401446,Active,2018-06-09,C,2023-04-06 16:20:51,2025-01-11 10:03:48,Unverified
+C300084,Hope Sharma Hospital,Chemist,,,Muzaffarpur,Bihar,Central,REG321672,Active,2017/09/01,A,2025-09-16 08:18:16,2025-08-29 18:44:14,
+C300085,Prime Sharma Care,Chemist,,,Lucknow,Uttar Pradesh,North,REG513647,Active,2024-09-18,B,2025-12-21 12:21:43,2025-09-07 06:30:18,Unverified
+C300086,Life Nair Clinic,Doctor,Dermatologist,Apollo Gaya,Gaya,Bihar,Central,REG992549,Active,2018-03-01,A,2023-01-14 17:06:34,2025-01-01 06:27:33,Legacy mapped
+C300087,Dr. Mishra Clinic,Chemist,,,Bilaspur,Chhattisgarh,Central,REG222648,Active,26 Oct 2023,B,2025-09-16 14:23:08,2025-12-20 13:26:35,Unverified
+C300088,Hospital Yadav Pharmacy,Clinic,Cardiologist,Care Bhopal,Bhopal,Madhya Pradesh,Central,REG374333,Active,2019-10-15,B,2024-05-14 15:24:56,2025-05-18 05:39:53,Legacy mapped
+C300089,Hospital Chawla Hospital,Chemist,,,Raipur,Chhattisgarh,Central,REG990518,Active,2023-01-10,B,2024-01-21 05:38:51,2025-10-14 14:56:15,Unverified
+C300090,Prime Mishra Pharmacy,Clinic,Pulmonologist,Medanta New Delhi,New Delhi,Delhi,North,REG311503,Active,2022-03-13,A,2024-07-18 18:39:02,2025-10-22 13:29:34,
+C300091,Hope Das Pharmacy,Chemist,,,Varanasi,Uttar Pradesh,Central,REG917674,Inactive,2025-09-03,C,2024-05-28 00:21:30,2025-04-16 12:34:57,
+C300092,Prime Reddy Pharmacy,Chemist,,,Udaipur,Rajasthan,North,REG755254,Active,2017-05-10,B,2023-11-27 03:57:43,2025-09-15 21:50:32,Needs clean-up
+C300093,Care Pillai Pharmacy,Clinic,Cardiologist,Aster Nashik,Nashik,Maharashtra,West,REG900270,Active,01/13/2023,B,2025-05-09 14:59:58,2025-02-26 04:24:20,Needs clean-up
+C300094,Hospital Das Medicals,Doctor,Diabetologist,Yashoda Kochi,Kochi,Kerala,South,REG780026,Active,2024-07-22,C,2023-05-12 19:56:25,2025-01-14 20:33:18,
+C300095,Life Gupta Care,Hospital,Neurologist,Medanta Silchar,Silchar,Assam,East,REG536550,Active,2021-02-18,C,2025-04-06 15:01:31,2026-02-25 03:27:48,Unverified
+C300096, City Mishra Care  ,Chemist,,,Dibrugarh,Assam,East,,Active,2018-09-03,A,2023-09-09 01:46:27,2025-06-09 01:28:49,Needs clean-up
+C300097,City Joshi Medicals,Hospital,Diabetologist,Narayana Thiruvananthapuram,Thiruvananthapuram,Kerala,South,REG420344,Active,2025-04-30,B,2024-06-13 18:45:31,2025-10-22 23:38:09,Unverified
+C300098,Life Jain Hospital,Clinic,Oncologist,Narayana Jodhpur,Jodhpur,Rajasthan,North,REG976412,Active,2024-06-25,C,2024-05-13 21:30:58,2025-02-04 01:53:44,Unverified
+C300099,City Kulkarni Care,Chemist,,,Kozhikode,Kerala,South,NA,Active,2019-03-10,C,2025-04-01 00:49:40,2025-02-24 15:18:59,Legacy mapped
+C300100,Life Verma Care,Chemist,,,Gurugram,Haryana,North,REG204440,Active,2022-07-18,B,2024-12-22 04:30:49,2025-01-01 14:07:09,Needs clean-up
+C300101,Hospital Jain Care,Clinic,Gastroenterologist,Medanta Patna,Patna,Bihar,Central,REG830124,Active,2023-10-25,A,2024-08-25 06:32:35,2025-11-19 03:31:58,Needs clean-up
+C300102,Dr. Nair Hospital,Clinic,Diabetologist,Fortis Bhopal,Bhopal,Madhya Pradesh,West,REG343410,Active,2020-06-19,B,2024-07-12 15:08:21,2025-08-03 01:52:18,Needs clean-up
+C300103,Life Chawla Care,Hospital,General Physician,Fortis Raipur,Raipur,Chhattisgarh,West,REG934183,Active,27/01/2019,A,2024-05-01 08:01:44,2025-11-16 15:14:05,Legacy mapped
+C300104,Life Kapoor Pharmacy,Clinic,Dermatologist,Medanta Hubballi,Hubballi,Karnataka,South,REG440076,Active,2020-02-12,A,2023-08-22 22:55:26,2025-10-17 08:14:21,Legacy mapped
+C300105,Life Joshi Care,Doctor,Dermatologist,Fortis Kozhikode,Kozhikode,Kerala,South,REG644519,Active,2019-07-08,A,2023-08-26 07:24:49,2026-02-17 14:54:35,Needs clean-up
+C300106,Life Reddy Hospital,Hospital,Neurologist,Care Gaya,Gaya,Bihar,East,,Active,2022-08-01,A,2025-01-15 05:39:23,2025-01-19 17:25:34,Needs clean-up
+C300107,Care Kulkarni Medicals,Hospital,Diabetologist,Yashoda Patna,Patna,Bihar,East,REG787656,Active,2023-04-19,B,2023-11-05 12:15:20,2025-08-09 00:02:24,Legacy mapped
+C300108,Life Kulkarni Pharmacy,Doctor,Neurologist,Narayana Patna,Patna,Bihar,East,REG713448,Active,2019-10-23,C,2024-11-16 06:04:53,2025-03-30 14:51:12,Unverified
+C300109,Hope Das Pharmacy,Doctor,General Physician,Fortis Muzaffarpur,Muzaffarpur,Bihar,East,REG381903,Active,10 Feb 2020,B,2023-06-07 10:09:44,2026-02-16 13:49:21,Legacy mapped
+C300110,Dr. Pillai Care,Clinic,Pulmonologist,Apollo Chennai,Chennai,Tamil Nadu,South,REG653674,Active,30/01/2025,A,2024-07-12 01:49:53,2025-10-12 19:56:42,Unverified
+C300111,Life Pillai Care,Hospital,Cardiologist,Global Visakhapatnam,Visakhapatnam,Andhra Pradesh,South,REG863183,Active,2020-08-18,C,2023-01-25 10:54:41,2025-09-18 01:34:07,Unverified
+C300112,Care Verma Medicals,Doctor,Pulmonologist,Fortis Ludhiana,Ludhiana,Punjab,North,REG150567,Active,2024-12-18,A,2024-11-29 20:33:46,2026-02-26 21:27:51,
+C300113,Life Kapoor Medicals,Doctor,Cardiologist,Apollo Bengaluru,Bengaluru,Karnataka,South,REG767283,Active,2020-04-05,B,2025-07-06 13:49:16,2025-03-15 16:07:09,Unverified
+C300114,Dr. Bose Hospital,Hospital,Dermatologist,Yashoda Jaipur,Jaipur,Rajasthan,Central,REG376257,Active,2020-08-07,C,2023-06-03 05:24:00,2025-10-24 04:00:15,Legacy mapped
+C300115,Life Agarwal Pharmacy,Chemist,,,Panipat,Haryana,North,REG895882,Active,2022-09-30,C,2023-07-17 06:01:18,2025-10-22 19:22:54,
+C300116,City Reddy Pharmacy,Chemist,,,Rourkela,Odisha,East,,Active,2024-12-03,C,2024-10-23 06:50:56,2025-03-08 04:54:14,
+C300117,Care Reddy Clinic,Clinic,Gastroenterologist,Manipal Surat,Surat,Gujarat,West,REG696126,Active,2025-09-27,B,2025-09-30 08:20:34,2025-07-23 03:32:47,
+C300118,Dr. Pillai Clinic,Chemist,,,Guwahati,Assam,East,REG392818,Active,2022-04-25,C,2025-12-22 11:36:34,2025-09-19 03:37:11,
+C300119,Hope Singh Clinic,Clinic,Neurologist,Global Bilaspur,Bilaspur,Chhattisgarh,West,REG248972,Inactive,2018-10-31,A,2024-05-06 13:34:15,2025-02-12 05:30:21,Legacy mapped
+C300120,Care Das Medicals,Chemist,,,Durgapur,West Bengal,East,REG134305,Active,2018-07-04,C,2023-02-06 02:55:29,2025-09-12 02:43:01,Needs clean-up
+C300121,Hospital Yadav Medicals,Doctor,Neurologist,Care Thiruvananthapuram,Thiruvananthapuram,Kerala,South,REG482472,Active,2024-03-16,B,2024-05-20 19:04:01,2026-01-16 06:11:15,
+C300122,Prime Kulkarni Care,Clinic,Dermatologist,Aster Muzaffarpur,Muzaffarpur,Bihar,Central,REG880863,Active,2024-02-13,A,2023-04-16 22:59:06,2025-02-10 21:55:03,Unverified
+C300123,City Bose Medicals,Hospital,Pulmonologist,Apollo Jaipur,Jaipur,Rajasthan,North,REG773616,Active,2022-05-03,C,2024-12-09 20:14:12,2026-01-18 09:09:08,Unverified
+C300124,Care Nair Hospital,Hospital,Diabetologist,Care Kochi,Kochi,Kerala,South,REG907364,Active,2021-01-23,B,2024-11-25 01:10:06,2025-12-04 16:33:56,Unverified
+C300125,Life Verma Clinic,Chemist,,,Bengaluru,Karnataka,South,REG341479,Active,2025-08-03,C,2025-09-28 17:53:32,2025-06-02 05:51:50,
+C300126,City Pillai Medicals,Chemist,,,Jamshedpur,Jharkhand,East,REG158696,Active,2025-02-06,A,2023-12-30 16:21:15,2025-03-08 20:40:03,Legacy mapped
+C300127,City Das Medicals,Clinic,Cardiologist,Aster Gaya,Gaya,Bihar,East,REG566726,Active,2025-11-23,A,2025-11-30 18:33:50,2025-08-11 06:45:26,
+C300128,Prime Kulkarni Clinic,Chemist,,,Thiruvananthapuram,Kerala,South,REG846944,Active,2018-12-10,A,2024-11-11 20:03:05,2025-11-13 08:29:13,Needs clean-up
+C300129,City Singh Medicals,Clinic,Diabetologist,Global Bilaspur,Bilaspur,Chhattisgarh,West,REG970980,Active,2023-04-24,C,2025-10-07 21:29:36,2025-02-13 22:30:35,Legacy mapped
+C300130,Prime Sharma Care,Doctor,Cardiologist,Max Bengaluru,Bengaluru,Karnataka,South,REG527609,Active,2021-06-07,A,2024-10-16 02:20:31,2025-06-15 18:21:06,Unverified
+C300131, Dr. Sharma Medicals  ,Clinic,Dermatologist,Narayana Gwalior,Gwalior,Madhya Pradesh,Central,REG607245,Inactive,2024-05-23,A,2025-09-17 21:57:41,2025-05-31 23:44:37,Needs clean-up
+C300132,Prime Pillai Clinic,Chemist,,,Vasco da Gama,Goa,West,REG462106,Active,19-03-2022,C,2024-11-10 02:11:41,2025-04-22 08:13:48,Legacy mapped
+C300133,City Bose Pharmacy,Chemist,,,Cuttack,Odisha,East,REG857265,Active,12/18/2025,C,2025-09-14 10:03:13,2025-12-07 02:00:19,Needs clean-up
+C300134,Life Patel Clinic,Clinic,General Physician,Apollo Indore,Indore,Madhya Pradesh,Central,REG532994,Active,2023-06-20,C,2023-03-14 15:53:16,2025-07-21 12:56:45,Needs clean-up
+C300135,Hospital Patel Pharmacy,Clinic,Pulmonologist,Max Muzaffarpur,Muzaffarpur,Bihar,Central,REG341448,Active,2024-05-12,A,2023-04-14 06:09:22,2026-01-23 06:24:59,Unverified
+C300136,Life Singh Hospital,Clinic,Gastroenterologist,Care Warangal,Warangal,Telangana,South,REG896152,Active,07-08-2022,C,2024-04-03 20:38:19,2026-02-20 14:53:24,Unverified
+C300137,Care Chawla Medicals,Doctor,Dermatologist,Aster Pune,Pune,Maharashtra,West,REG348025,Active,2018-12-23,B,2024-11-14 12:44:19,2025-05-11 07:37:55,
+C300138,LIFE SIngh care,Clinic,Neurologist,Manipal Lucknow,Lucknow,Uttar Pradesh,Central,REG845544,Inactive,2017-08-09,B,2023-06-08 12:16:03,2025-08-17 16:29:55,
+C300139,City Agarwal Clinic,Hospital,Cardiologist,Care Guwahati,Guwahati,Assam,East,REG803411,Active,2021-02-03,A,2025-09-15 20:56:10,2026-01-27 19:20:37,Needs clean-up
+C300140,Care Mishra Medicals,Chemist,,,Indore,Madhya Pradesh,West,REG138727,Active,2024-10-11,C,2025-02-25 19:48:38,2025-02-19 10:18:45,Legacy mapped
+C300141,Hospital Reddy Clinic,Hospital,Diabetologist,Aster Mumbai,Mumbai,Maharashtra,West,REG304509,Active,2017-03-22,A,2023-05-12 07:27:48,2025-10-07 17:18:04,Unverified
+C300142,Hope Mehta Clinic,Doctor,Diabetologist,Narayana Bhopal,Bhopal,Madhya Pradesh,West,REG719116,Active,2017-12-15,B,2025-06-11 21:58:23,2025-06-22 17:38:10,Legacy mapped
+C300143,Hope Das Care,Chemist,,,Warangal,Telangana,South,REG304429,Active,2025-08-11,A,2023-12-30 19:59:14,2026-02-13 07:22:09,Needs clean-up
+C300144,City Singh Hospital,Chemist,,,Jodhpur,Rajasthan,Central,REG529854,Active,2021-08-09,C,2024-09-26 23:31:17,2025-07-31 08:43:23,Unverified
+C300145,Prime Sharma Care,Doctor,Oncologist,Narayana Kanpur,Kanpur,Uttar Pradesh,North,REG151674,Active,21/01/2023,B,2025-04-05 23:19:52,2025-06-29 00:47:43,Unverified
+C300146,HOPE SHArma care,Chemist,,,Gwalior,Madhya Pradesh,Central,REG615713,Active,2022-08-09,B,2023-06-12 18:13:28,2025-09-30 23:35:27,Needs clean-up
+C300147,Prime Jain Clinic,Clinic,Pulmonologist,Manipal Guntur,Guntur,Andhra Pradesh,South,REG565791,Active,2021-07-31,A,2024-02-11 15:36:57,2025-03-17 04:50:55,Needs clean-up
+C300148,Dr. Iyer Clinic,Chemist,,,Kochi,Kerala,South,REG769848,Active,2020-07-06,A,2024-10-23 05:07:38,2025-05-29 00:20:58,
+C300149,Hope Das Medicals,Doctor,Dermatologist,Global Ranchi,Ranchi,Jharkhand,East,REG472666,Inactive,2019-08-26,B,2025-02-12 00:36:34,2026-01-20 23:59:20,
+C300150,Life Gupta Pharmacy,Chemist,,,Jaipur,Rajasthan,Central,REG562653,Active,2022-11-17,B,2024-09-05 16:47:38,2025-12-16 21:22:57,Unverified
+C300151,Care Mehta Medicals,Chemist,,,Pune,Maharashtra,West,REG556278,Active,2019-01-12,B,2025-09-07 08:30:30,2025-09-05 08:15:28,Legacy mapped
+C300152,Life Agarwal Pharmacy,Clinic,Pulmonologist,Fortis Ludhiana,Ludhiana,Punjab,North,REG751001,Active,2023-04-25,C,2025-08-18 10:23:31,2025-10-31 21:34:54,Legacy mapped
+C300153, Dr. Jain Medicals  ,Doctor,General Physician,Narayana Madurai,Madurai,Tamil Nadu,South,REG559433,Active,2021-02-01,B,2023-03-08 10:46:36,2025-02-04 18:14:17,Unverified
+C300154,Dr. Nair Clinic,Clinic,Diabetologist,Manipal Warangal,Warangal,Telangana,South,REG158012,Active,2020-10-09,A,2024-02-19 11:56:50,2025-04-10 22:23:39,Needs clean-up
+C300155,Prime Iyer Medicals,Clinic,General Physician,Fortis Dibrugarh,Dibrugarh,Assam,East,REG100097,Active,2025-07-26,C,2024-10-28 20:30:32,2025-11-30 17:09:49,Needs clean-up
+C300156,Hope Das Pharmacy,Doctor,Oncologist,Yashoda Visakhapatnam,Visakhapatnam,Andhra Pradesh,South,REG558589,Active,2023-05-21,B,2025-10-18 16:51:20,2025-06-21 00:50:56,
+C300157,City Nair Medicals,Clinic,General Physician,Global Gaya,Gaya,Bihar,East,REG864761,Blacklisted,2017-04-22,C,2023-06-17 00:59:28,2025-11-10 07:45:11,Legacy mapped
+C300158,Care Mishra Pharmacy,Hospital,Gastroenterologist,Narayana Panaji,Panaji,Goa,West,REG803291,Active,2022-08-10,A,2023-05-19 14:28:20,2025-04-15 18:35:53,Needs clean-up
+C300159,City Kulkarni Medicals,Doctor,Neurologist,Apollo Nizamabad,Nizamabad,Telangana,South,REG803863,Active,10 Sep 2020,B,2024-02-15 22:35:51,2025-01-02 11:12:47,Needs clean-up
+C300160,Life Pillai Clinic,Hospital,Gastroenterologist,Narayana Dibrugarh,Dibrugarh,Assam,East,,Active,2017-04-09,B,2023-06-18 06:54:02,2025-07-29 19:26:28,Legacy mapped
+C300161,Life Joshi Clinic,Chemist,,,Jalandhar,Punjab,North,REG968162,Inactive,2022-11-03,B,2024-04-04 14:36:56,2026-02-21 17:49:09,
+C300162,Hospital Das Care,Doctor,Pulmonologist,Apollo Guwahati,Guwahati,Assam,East,REG546802,Active,2022-12-08,B,2025-12-22 06:02:26,2025-10-14 08:43:58,Legacy mapped
+C300163,Hospital Singh Medicals,Clinic,Dermatologist,Narayana Raipur,Raipur,Chhattisgarh,West,REG148158,Inactive,2021-03-02,B,2024-12-29 14:50:15,2026-01-12 10:18:06,
+C300164,Dr. Mishra Care,Chemist,,,Jamshedpur,Jharkhand,East,REG942080,Active,2025-04-09,C,2023-05-13 00:40:34,2025-06-13 10:33:28,Legacy mapped
+C300165,PRIME DAS CLINIC,Chemist,,,Warangal,Telangana,South,REG219685,Active,2021-02-23,A,2025-08-14 23:59:48,2025-06-05 18:15:07,Needs clean-up
+C300166,Dr. Jain Hospital,Doctor,Dermatologist,Aster Mumbai,Mumbai,Maharashtra,West,REG779376,Active,2021-12-10,C,2024-12-30 01:02:02,2026-03-01 09:21:35,Unverified
+C300167,City Das Care,Hospital,Diabetologist,Global Udaipur,Udaipur,Rajasthan,North,REG138941,Inactive,2023-10-23,B,2024-05-10 10:27:41,2025-06-28 23:44:54,
+C300168,Care Das Clinic,Clinic,Oncologist,Medanta Vijayawada,Vijayawada,Andhra Pradesh,South,REG908678,Active,2022-06-08,A,2025-12-09 23:14:15,2025-06-28 02:50:48,Unverified
+C300169,CITY GUPTA MEDICALS,Clinic,Dermatologist,Apollo Warangal,Warangal,Telangana,South,REG322003,Active,2023-02-26,A,2024-07-13 22:55:57,2026-01-06 17:55:48,Needs clean-up
+C300170,Dr. Kulkarni Pharmacy,Chemist,,,Surat,Gujarat,West,REG692056,Active,2019-05-14,A,2025-10-16 00:37:32,2025-03-01 12:26:34,
+C300171,Hope Reddy Clinic,Clinic,Pulmonologist,Narayana Bengaluru,Bengaluru,Karnataka,South,REG499530,Active,2021-08-02,B,2023-11-11 11:28:14,2025-02-27 04:55:22,Legacy mapped
+C300172,Hope Pillai Pharmacy,Clinic,Gastroenterologist,Max Pune,Pune,Maharashtra,West,REG712371,Active,2025-05-13,C,2024-09-24 15:17:23,2025-01-20 17:03:40,Needs clean-up
+C300173,Prime Jain Pharmacy,Doctor,Oncologist,Aster Kanpur,Kanpur,Uttar Pradesh,North,,Active,2017-12-04,B,2024-06-01 14:05:57,2025-08-02 10:02:54,Unverified
+C300174,Care Mishra Hospital,Clinic,Diabetologist,Yashoda Siliguri,Siliguri,West Bengal,East,REG250401,Active,2025-04-14,C,2024-08-08 23:23:16,2025-02-14 21:43:53,
+C300175,Hope Pillai Pharmacy,Chemist,,,Guntur,Andhra Pradesh,South,REG732228,Active,2019-02-27,B,2024-05-19 19:25:59,2025-06-16 23:10:19,Legacy mapped
+C300176,City Reddy Hospital,Chemist,,,Bhopal,Madhya Pradesh,West,REG383388,Active,2024-10-12,A,2024-12-22 06:18:09,2025-06-16 11:21:24,
+C300177,Prime Patel Clinic,Hospital,Dermatologist,Fortis Raipur,Raipur,Chhattisgarh,Central,REG477576,Active,2023-06-16,C,2024-12-21 08:59:08,2025-11-18 11:49:09,Needs clean-up
+C300178,Hope Mehta Medicals,Doctor,Dermatologist,Apollo Siliguri,Siliguri,West Bengal,East,REG593683,Active,2019-04-22,B,2023-03-08 22:42:11,2025-12-03 19:13:31,
+C300179,Life Gupta Clinic,Hospital,Gastroenterologist,Aster Coimbatore,Coimbatore,Tamil Nadu,South,REG568877,Inactive,2020-04-08,B,2024-11-18 16:50:32,2025-03-05 18:40:54,Unverified
+C300180,Hope Nair Medicals,Chemist,,,Bilaspur,Chhattisgarh,West,REG303300,Active,2022-06-26,B,2025-10-10 05:55:53,2026-01-08 12:26:32,Unverified
+C300181,Life Kapoor Pharmacy,Hospital,Neurologist,Manipal Gwalior,Gwalior,Madhya Pradesh,Central,REG133290,Active,2024-12-31,C,2024-02-27 03:30:28,2025-11-02 00:21:15,Unverified
+C300182,Hospital Reddy Hospital,Hospital,Oncologist,Fortis Jalandhar,Jalandhar,Punjab,North,REG210520,Active,2017-02-16,A,2024-05-26 13:08:34,2025-01-30 03:55:38,Legacy mapped
+C300183,Dr. Reddy Hospital,Hospital,Neurologist,Manipal Udaipur,Udaipur,Rajasthan,Central,REG670611,Inactive,2019-10-05,B,2023-06-27 10:37:51,2025-02-13 00:43:24,Needs clean-up
+C300184,CITY YADAv hospital,Hospital,Diabetologist,Apollo Jodhpur,Jodhpur,Rajasthan,North,REG530333,Inactive,2018-08-11,B,2025-10-09 17:40:38,2025-03-09 04:59:59,Unverified
+C300185,City Reddy Clinic,Clinic,Diabetologist,Aster Udaipur,Udaipur,Rajasthan,North,REG163276,Active,16/08/2020,C,2025-10-13 20:01:25,2025-03-11 22:39:56,
+C300186,Hospital Kapoor Medicals,Chemist,,,Udaipur,Rajasthan,North,REG152027,Blacklisted,2023-03-13,A,2025-03-12 17:59:51,2025-12-11 05:07:18,
+C300187,Hope Bose Care,Doctor,Oncologist,Manipal Surat,Surat,Gujarat,West,REG304483,Active,2018-09-28,A,2023-04-17 10:54:50,2026-01-14 21:25:11,Needs clean-up
+C300188,Life Mishra Medicals,Chemist,,,Lucknow,Uttar Pradesh,North,REG570688,Active,2022-12-10,C,2023-12-18 02:14:10,2025-08-25 07:34:07,Unverified
+C300189,Hospital Kulkarni Pharmacy,Hospital,Oncologist,Max Madurai,Madurai,Tamil Nadu,South,REG443905,Active,25 Aug 2023,C,2024-05-24 17:43:54,2025-06-01 15:49:56,Unverified
+C300190,Prime Mishra Hospital,Clinic,Cardiologist,Care Rourkela,Rourkela,Odisha,East,REG160220,Active,2023-06-10,A,2024-07-06 13:13:25,2025-07-30 19:53:33,Legacy mapped
+C300191,Care Jain Medicals,Doctor,Neurologist,Care Margao,Margao,Goa,West,REG114272,Active,2022-03-19,A,2023-04-22 23:12:07,2025-08-16 04:06:40,
+C300192,Hospital Singh Clinic,Chemist,,,Nizamabad,Telangana,South,REG806037,Active,2017-03-17,A,2023-04-10 02:19:25,2025-01-16 02:56:39,Legacy mapped
+C300193,hospital iyer pharmacy,Clinic,General Physician,Fortis Hyderabad,Hyderabad,Telangana,South,REG879344,Active,2021-06-21,A,2024-04-18 03:24:06,2025-05-30 01:57:35,Legacy mapped
+C300194,Dr. Bose Care,Clinic,Cardiologist,Global Bengaluru,Bengaluru,Karnataka,South,REG587703,Inactive,2020-10-01,A,2025-01-11 00:35:04,2025-11-03 22:00:00,Unverified
+C300195,Prime Kapoor Clinic,Hospital,Neurologist,Narayana Bhopal,Bhopal,Madhya Pradesh,West,REG938624,Active,2019-12-17,A,2024-05-06 20:01:09,2025-12-27 05:51:59,Needs clean-up
+C300196,Care Kapoor Care,Clinic,Dermatologist,Global Mumbai,Mumbai,Maharashtra,West,REG302657,Active,2021-12-23,B,2023-06-16 21:19:37,2025-01-23 11:30:05,Needs clean-up
+C300197,Prime Chawla Medicals,Clinic,Diabetologist,Care Bhubaneswar,Bhubaneswar,Odisha,East,REG810609,Active,05/15/2018,C,2025-08-09 16:39:45,2026-03-09 16:38:51,
+C300198,Dr. Jain Care,Clinic,Cardiologist,Medanta Raipur,Raipur,Chhattisgarh,West,REG375874,Active,2022-08-14,B,2025-01-16 09:26:28,2025-04-22 02:58:43,Legacy mapped
+C300199,Hope Sharma Pharmacy,Doctor,Pulmonologist,Narayana Nashik,Nashik,Maharashtra,West,REG432901,Active,2022-05-03,C,2023-01-11 06:16:00,2025-03-04 20:50:05,Needs clean-up
+C300200,Dr. Singh Care,Clinic,General Physician,Max Nashik,Nashik,Maharashtra,West,REG658112,Active,10 Nov 2022,C,2023-06-29 14:10:01,2025-05-06 10:30:37,Needs clean-up
+C300201,Dr. Kulkarni Care,Doctor,General Physician,Narayana Jamshedpur,Jamshedpur,Jharkhand,East,REG236189,Active,2024-12-16,B,2023-11-01 09:04:07,2025-08-04 08:13:17,Legacy mapped
+C300202,Care Mishra Pharmacy,Clinic,Pulmonologist,Max Kolkata,Kolkata,West Bengal,East,REG889466,Active,13 Sep 2017,B,2024-08-24 04:47:04,2026-02-12 02:27:58,Unverified
+C300203,City Jain Medicals,Doctor,Neurologist,Medanta Pune,Pune,Maharashtra,West,REG543096,Active,14/06/2025,B,2025-05-19 08:20:12,2026-01-25 07:06:27,Unverified
+C300204,Prime Jain Hospital,Doctor,Dermatologist,Manipal Lucknow,Lucknow,Uttar Pradesh,Central,REG784997,Active,2024-07-24,B,2025-05-20 23:56:50,2025-05-04 20:06:48,
+C300205,Hope Kapoor Medicals,Clinic,General Physician,Narayana Durg,Durg,Chhattisgarh,West,REG493992,Active,2025-08-04,C,2024-04-10 00:17:06,2025-12-23 21:20:40,Unverified
+C300206,Hospital Mehta Clinic,Hospital,Gastroenterologist,Global Jamshedpur,Jamshedpur,Jharkhand,East,REG553004,Active,2018-01-20,C,2025-05-23 16:49:23,2025-03-21 11:53:15,
+C300207,Prime Kulkarni Clinic,Doctor,Pulmonologist,Fortis Panaji,Panaji,Goa,West,REG221189,Active,2023-04-01,C,2025-07-05 08:41:01,2026-01-13 19:22:10,
+C300208, Hope Nair Medicals  ,Clinic,Neurologist,Care Patna,Patna,Bihar,East,REG509543,Active,22 Apr 2019,C,2023-12-19 09:04:27,2025-11-22 03:05:38,Unverified
+C300209,City Das Medicals,Hospital,Dermatologist,Global Durgapur,Durgapur,West Bengal,East,,Inactive,2025-05-11,C,2023-04-21 12:32:51,2025-04-14 02:48:07,Legacy mapped
+C300210,Prime Iyer Clinic,Hospital,Diabetologist,Fortis Varanasi,Varanasi,Uttar Pradesh,North,REG509127,Active,10 Jan 2017,C,2024-03-14 16:54:22,2026-01-23 13:07:27,Legacy mapped
+C300211,Care Iyer Pharmacy,Hospital,Cardiologist,Care Nagpur,Nagpur,Maharashtra,West,REG311340,Active,2024-11-05,B,2024-06-04 05:58:50,2025-02-21 21:57:19,Legacy mapped
+C300212,Life Chawla Clinic,Doctor,Diabetologist,Medanta Jodhpur,Jodhpur,Rajasthan,North,REG781032,Active,2024/12/13,B,2023-10-21 10:03:55,2025-12-06 10:36:08,Unverified
+C300213,City Joshi Pharmacy,Chemist,,,Hubballi,Karnataka,South,REG840434,Active,2024-07-13,A,2025-09-27 06:29:37,2025-06-28 14:09:14,
+C300214,Hospital Jain Care,Doctor,Diabetologist,Fortis Pune,Pune,Maharashtra,West,REG317555,Active,06-09-2020,B,2023-04-01 05:55:16,2025-07-27 18:17:33,Unverified
+C300215,Hospital Gupta Clinic,Hospital,Diabetologist,Yashoda Ludhiana,Ludhiana,Punjab,North,REG361379,Active,2024-11-23,B,2023-05-02 23:36:19,2025-04-17 18:53:53,
+C300216,Hope Singh Pharmacy,Clinic,Neurologist,Fortis Vijayawada,Vijayawada,Andhra Pradesh,South,REG217027,Active,2023-03-19,A,2023-10-15 12:41:03,2025-09-22 00:39:51,Legacy mapped
+C300217,Dr. Bose Medicals,Hospital,Cardiologist,Global Nagpur,Nagpur,Maharashtra,West,REG924955,Active,2017-01-13,A,2025-06-28 20:17:41,2025-08-13 23:51:14,
+C300218,City Mehta Medicals,Doctor,Gastroenterologist,Max Ludhiana,Ludhiana,Punjab,North,REG484036,Active,2022-06-23,A,2024-10-19 07:58:22,2025-06-14 20:32:33,Legacy mapped
+C300219,Prime Pillai Care,Doctor,Cardiologist,Max Nizamabad,Nizamabad,Telangana,South,REG882271,Active,2017-08-26,A,2025-12-31 08:31:30,2025-10-30 17:48:10,Unverified
+C300220,Life Patel Hospital,Hospital,Neurologist,Medanta Muzaffarpur,Muzaffarpur,Bihar,Central,REG991114,Active,2025-05-04,A,2025-07-02 00:24:26,2025-08-02 21:57:31,
+C300221,Hope Patel Pharmacy,Doctor,Cardiologist,Fortis Ahmedabad,Ahmedabad,Gujarat,West,REG718956,Active,2017-04-15,C,2024-05-16 15:13:46,2025-02-28 06:16:43,
+C300222,Dr. Singh Pharmacy,Clinic,Cardiologist,Manipal Visakhapatnam,Visakhapatnam,Andhra Pradesh,South,,Active,2018-07-16,A,2023-01-30 09:58:23,2025-09-22 04:02:30,Legacy mapped
+C300223,City Mishra Clinic,Clinic,Pulmonologist,Yashoda Kanpur,Kanpur,Uttar Pradesh,North,REG601409,Active,2025-11-08,B,2023-05-05 13:21:53,2025-03-10 18:42:38,
+C300224,Hospital Sharma Pharmacy,Doctor,Gastroenterologist,Apollo Cuttack,Cuttack,Odisha,East,REG599841,Active,2023-10-16,A,2024-04-24 10:44:44,2025-06-14 00:58:34,
+C300225,Care Kapoor Hospital,Chemist,,,Jodhpur,Rajasthan,Central,REG880263,Active,2017-11-22,C,2025-07-04 08:18:11,2025-01-18 10:16:03,Unverified
+C300226,Life Mehta Care,Clinic,Neurologist,Max Panipat,Panipat,Haryana,North,REG864773,Active,2020-07-18,C,2024-05-12 01:59:01,2025-02-06 07:56:16,
+C300227,City Das Care,Clinic,General Physician,Medanta Siliguri,Siliguri,West Bengal,East,REG384970,Inactive,2022-10-28,B,2023-01-12 01:00:02,2025-05-31 01:01:18,Needs clean-up
+C300228,Hope Singh Hospital,Clinic,Gastroenterologist,Yashoda Gaya,Gaya,Bihar,East,REG468057,Active,2020-03-01,C,2023-10-18 09:25:27,2025-03-10 10:28:27,
+C300229,Hope Jain Care,Clinic,General Physician,Yashoda Jalandhar,Jalandhar,Punjab,North,REG800016,Active,2021-04-23,B,2023-12-29 21:42:23,2025-01-31 17:43:07,Unverified
+C300230,Dr. Jain Care,Hospital,Pulmonologist,Fortis Lucknow,Lucknow,Uttar Pradesh,Central,REG369193,Active,2020-01-30,B,2025-09-18 23:42:24,2025-04-07 03:40:02,Legacy mapped
+C300231,Life Verma Clinic,Clinic,Gastroenterologist,Aster Chennai,Chennai,Tamil Nadu,South,REG634664,Active,2021-04-05,C,2025-05-08 09:23:48,2025-11-26 16:38:57,Legacy mapped
+C300232,Hope Patel Care,Hospital,Oncologist,Manipal Patna,Patna,Bihar,East,REG763449,Active,2024-08-28,C,2024-07-25 15:59:45,2025-11-01 22:10:49,Needs clean-up
+C300233,HOPE KULKARNI HOSPITAL,Chemist,,,Guwahati,Assam,East,REG424572,Active,2023-02-08,B,2025-04-09 07:56:50,2025-10-24 04:41:47,Unverified
+C300234,Prime Gupta Pharmacy,Clinic,General Physician,Care Jodhpur,Jodhpur,Rajasthan,Central,REG367012,Active,2019-04-23,B,2025-12-23 01:20:15,2025-05-21 04:22:07,
+C300235,Prime Joshi Medicals,Hospital,Dermatologist,Care Patna,Patna,Bihar,Central,REG579965,Active,2021-06-28,A,2023-06-17 18:07:38,2025-04-08 11:10:24,Unverified
+C300236,Life Kapoor Medicals,Doctor,Oncologist,Apollo Nizamabad,Nizamabad,Telangana,South,REG472283,Active,2020-07-28,C,2023-08-28 00:40:23,2026-03-10 20:27:46,Legacy mapped
+C300237,Prime Mehta Pharmacy,Chemist,,,Gaya,Bihar,Central,REG964952,Blacklisted,2020-12-26,B,2025-08-16 01:08:23,2026-01-19 00:44:05,Unverified
+C300238,City Chawla Medicals,Doctor,Pulmonologist,Narayana Gaya,Gaya,Bihar,East,REG439496,Active,2024-01-25,A,2025-10-01 08:58:17,2026-01-18 17:17:22,Unverified
+C300239,Hospital Jain Hospital,Hospital,Dermatologist,Apollo Jamshedpur,Jamshedpur,Jharkhand,East,REG450187,Active,2020-10-30,A,2023-01-21 21:28:10,2025-08-29 23:30:08,Legacy mapped
+C300240,Dr. Joshi Medicals,Clinic,Neurologist,Max Gwalior,Gwalior,Madhya Pradesh,West,REG776451,Blacklisted,2017-04-04,A,2025-04-19 13:51:39,2025-10-04 00:50:40,Legacy mapped
+C300241,Hope Iyer Medicals,Chemist,,,Gwalior,Madhya Pradesh,West,REG399337,Active,2017-08-20,B,2025-03-26 03:27:22,2025-04-25 15:31:55,Needs clean-up
+C300242,Dr. Kapoor Hospital,Clinic,Pulmonologist,Fortis Kanpur,Kanpur,Uttar Pradesh,Central,REG508515,Active,2023-07-12,B,2023-02-14 21:30:51,2025-03-30 10:38:11,Unverified
+C300243,Life Chawla Pharmacy,Chemist,,,Noida,Delhi,North,REG634380,Active,2024-07-06,A,2025-12-08 02:12:13,2026-01-22 23:19:52,
+C300244,Hospital Kapoor Medicals,Hospital,Pulmonologist,Max Coimbatore,Coimbatore,Tamil Nadu,South,REG392246,Active,2017-01-16,C,2025-02-15 21:36:40,2025-06-30 19:39:07,
+C300245,Dr. Gupta Care,Chemist,,,Thiruvananthapuram,Kerala,South,REG680174,Active,2018-01-22,B,2025-06-09 11:37:22,2025-02-19 02:41:09,
+C300246,Hope Yadav Pharmacy,Chemist,,,Madurai,Tamil Nadu,South,REG366136,Active,2020-04-03,A,2024-03-01 23:30:22,2025-12-13 23:56:18,Legacy mapped
+C300247,Life Das Clinic,Hospital,Dermatologist,Yashoda Jodhpur,Jodhpur,Rajasthan,Central,REG440266,Active,2025-03-14,A,2025-07-07 15:50:08,2025-12-17 02:29:36,Legacy mapped
+C300248,Prime Jain Hospital,Doctor,Neurologist,Aster Kanpur,Kanpur,Uttar Pradesh,North,REG735777,Active,2024-05-05,C,2024-09-17 21:49:44,2025-09-19 07:44:29,Legacy mapped
+C300249,Hope Gupta Medicals,Clinic,Gastroenterologist,Yashoda Durg,Durg,Chhattisgarh,West,REG381438,Active,2018/12/04,B,2025-06-25 05:32:31,2025-09-03 08:31:50,Needs clean-up
+C300250,Life Yadav Clinic,Doctor,Pulmonologist,Global Bhopal,Bhopal,Madhya Pradesh,Central,REG499400,Active,2020-02-28,A,2024-10-10 15:14:04,2025-12-07 16:03:09,
+C300251, Life Reddy Medicals  ,Doctor,Cardiologist,Manipal Siliguri,Siliguri,West Bengal,East,REG360564,Active,2019-01-08,B,2025-01-16 14:33:59,2025-02-21 09:39:25,Legacy mapped
+C300252,Care Singh Care,Hospital,Cardiologist,Apollo Patna,Patna,Bihar,East,REG854215,Active,2021-06-09,B,2024-04-06 02:52:14,2025-09-02 01:44:02,
+C300253,Life Agarwal Pharmacy,Doctor,Oncologist,Care Vasco da Gama,Vasco da Gama,Goa,West,REG107142,Active,08/11/2024,A,2025-07-17 06:15:53,2025-11-01 15:51:40,
+C300254,Life Iyer Care,Hospital,Pulmonologist,Yashoda New Delhi,New Delhi,Delhi,North,REG265741,Inactive,21 Feb 2025,B,2023-02-01 00:26:04,2025-04-17 16:24:21,Unverified
+C300255,City Jain Care,Hospital,General Physician,Medanta Gaya,Gaya,Bihar,Central,REG668837,Active,2022-04-14,A,2023-05-12 17:45:54,2025-01-16 01:19:21,
+C300256,City Reddy Medicals,Doctor,Oncologist,Global Panipat,Panipat,Haryana,North,REG952177,Active,11/09/2018,B,2024-01-26 22:55:17,2026-02-12 15:31:38,Needs clean-up
+C300257,Life Nair Hospital,Chemist,,,Nagpur,Maharashtra,West,,Active,06/30/2021,A,2025-03-03 18:56:16,2025-12-06 23:44:32,Needs clean-up
+C300258,City Pillai Clinic,Doctor,Pulmonologist,Care Varanasi,Varanasi,Uttar Pradesh,North,REG221434,Active,2025-11-05,A,2025-02-22 01:23:35,2025-01-11 02:36:31,Unverified
+C300259,Life Joshi Pharmacy,Clinic,Diabetologist,Narayana Ranchi,Ranchi,Jharkhand,East,REG375411,Active,2020-05-09,B,2023-10-09 19:59:16,2026-01-28 04:47:25,Needs clean-up
+C300260,Prime Verma Care,Chemist,,,Udaipur,Rajasthan,North,REG559543,Active,2025-08-24,A,2025-04-21 16:16:56,2025-11-13 14:02:18,Legacy mapped
+C300261,Hospital Sharma Pharmacy,Chemist,,,Siliguri,West Bengal,East,REG182414,Active,2021/10/24,A,2024-06-26 07:27:23,2025-10-23 15:09:42,Legacy mapped
+C300262,City Verma Hospital,Doctor,Dermatologist,Care Gaya,Gaya,Bihar,Central,REG438109,Active,2021-11-07,A,2023-06-14 22:53:55,2025-08-23 11:48:07,
+C300263,Hope Mishra Hospital,Hospital,Pulmonologist,Aster Noida,Noida,Uttar Pradesh,North,REG755498,Active,2025-12-18,A,2025-06-06 13:31:08,2025-12-19 02:38:46,Legacy mapped
+C300264,Care Singh Care,Doctor,Pulmonologist,Global Kochi,Kochi,Kerala,South,REG216124,Active,2018-12-25,C,2025-01-14 19:31:34,2025-04-24 06:27:53,Needs clean-up
+C300265,City Verma Hospital,Hospital,Cardiologist,Medanta Durgapur,Durgapur,West Bengal,East,REG821497,Active,2021-05-21,C,2025-12-28 17:01:05,2025-04-01 21:49:10,Unverified
+C300266,Dr. Sharma Medicals,Clinic,Oncologist,Max Ahmedabad,Ahmedabad,Gujarat,West,REG963819,Active,2021-07-11,C,2023-12-11 22:03:47,2025-12-01 12:45:15,Needs clean-up
+C300267,Hope Reddy Hospital,Chemist,,,Amritsar,Punjab,North,REG497184,Active,2021-08-21,A,2025-04-11 11:34:55,2025-07-23 23:12:24,
+C300268,Hospital Nair Care,Clinic,Dermatologist,Max Hyderabad,Hyderabad,Telangana,South,REG389310,Active,2017-03-22,B,2024-07-03 00:39:28,2025-10-14 14:52:13,Needs clean-up
+C300269,Prime Verma Care,Doctor,Pulmonologist,Aster Jaipur,Jaipur,Rajasthan,North,REG666139,Active,2019-09-14,C,2024-04-18 00:48:00,2025-05-22 13:03:14,Unverified
+C300270,Care Kulkarni Clinic,Clinic,General Physician,Global Nashik,Nashik,Maharashtra,West,REG398454,Active,2017-07-28,C,2024-10-06 23:35:52,2025-05-05 01:16:30,
+C300271,Prime Bose Pharmacy,Hospital,General Physician,Fortis Guntur,Guntur,Andhra Pradesh,South,REG104595,Active,2020-08-06,C,2023-04-13 03:57:39,2025-10-07 10:58:31,Unverified
+C300272,hospital das hospital,Chemist,,,Ranchi,Jharkhand,East,REG625728,Active,11/02/2018,B,2024-04-03 05:00:23,2025-12-22 04:34:23,
+C300273,Care Iyer Hospital,Hospital,Cardiologist,Fortis Patna,Patna,Bihar,East,REG679713,Active,2025-09-09,B,2023-01-28 23:23:07,2025-04-17 19:47:44,
+C300274,City Patel Hospital,Chemist,,,Lucknow,Uttar Pradesh,Central,123,Active,2022-07-11,B,2023-03-27 08:47:23,2025-02-04 10:27:37,Legacy mapped
+C300275,Prime Yadav Medicals,Hospital,Dermatologist,Global Coimbatore,Coimbatore,Tamil Nadu,South,REG337110,Active,2019-04-12,A,2023-11-05 21:23:11,2026-03-12 06:38:03,Needs clean-up
+C300276,Prime Verma Pharmacy,Clinic,Oncologist,Medanta Faridabad,Faridabad,Haryana,North,REG988831,Active,2023-11-03,B,2023-06-27 04:41:20,2025-10-02 02:36:14,Needs clean-up
+C300277,Care Singh Pharmacy,Clinic,Oncologist,Manipal Bilaspur,Bilaspur,Chhattisgarh,West,REG421109,Inactive,2024-10-09,C,2024-07-27 11:26:35,2026-01-25 03:23:02,Unverified
+C300278,Hope Bose Medicals,Doctor,Oncologist,Care Faridabad,Faridabad,Haryana,North,REG918996,Active,2025-07-09,A,2023-09-21 06:00:17,2025-03-21 06:15:52,Legacy mapped
+C300279,city kulkarni pharmacy,Doctor,Oncologist,Narayana Udaipur,Udaipur,Rajasthan,Central,,Active,2022-07-24,A,2024-06-13 00:01:49,2025-06-08 07:49:53,Needs clean-up
+C300280,Dr. Das Clinic,Clinic,Pulmonologist,Max Gwalior,Gwalior,Madhya Pradesh,West,REG599784,Active,2021-10-14,A,2025-04-26 16:01:22,2025-04-16 15:12:33,
+C300281,Prime Verma Medicals,Hospital,Oncologist,Fortis Jaipur,Jaipur,Rajasthan,Central,REG709001,Active,2022-08-10,A,2025-08-13 11:06:33,2025-12-21 12:08:06,
+C300282,Life Bose Medicals,Hospital,Dermatologist,Max Udaipur,Udaipur,Rajasthan,Central,REG781753,Active,2023-06-10,B,2023-01-24 00:24:49,2025-07-24 16:43:58,
+C300283,City Iyer Hospital,Chemist,,,Guntur,Andhra Pradesh,South,REG495766,Active,2021-09-26,C,2023-06-03 21:28:38,2025-03-10 05:40:18,
+C300284,Hospital Reddy Care,Doctor,Gastroenterologist,Yashoda Jodhpur,Jodhpur,Rajasthan,Central,REG685907,Active,2020-11-17,C,2024-06-13 08:58:33,2025-08-22 17:36:02,Unverified
+C300285,Prime Jain Medicals,Clinic,Pulmonologist,Care Raipur,Raipur,Chhattisgarh,Central,REG765218,Active,14-02-2018,A,2025-10-29 22:01:27,2025-12-27 13:47:46,Needs clean-up
+C300286,Hospital Sharma Medicals,Chemist,,,Siliguri,West Bengal,East,REG982758,Active,2018-12-10,C,2024-11-15 22:59:53,2025-05-04 14:06:08,Needs clean-up
+C300287,Dr. Jain Hospital,Chemist,,,Jodhpur,Rajasthan,Central,REG203212,Active,2019-04-01,C,2023-06-09 09:52:10,2025-03-03 15:42:21,Needs clean-up
+C300288,Hospital Singh Care,Chemist,,,Warangal,Telangana,South,REG571421,Active,2020-12-12,C,2025-09-05 13:27:08,2025-01-17 16:19:52,
+C300289,Dr. Reddy Hospital,Chemist,,,Bilaspur,Chhattisgarh,West,REG504954,Active,2024-10-29,B,2025-11-12 21:20:53,2025-08-07 10:40:08,Unverified
+C300290,Hope Kapoor Pharmacy,Chemist,,,Patna,Bihar,East,REG700366,Active,2018-10-26,A,2025-05-10 15:39:17,2025-01-23 13:42:01,
+C300291,Life Gupta Medicals,Hospital,Oncologist,Yashoda Patna,Patna,Bihar,East,REG348089,Active,2023-01-07,C,2025-12-10 12:08:09,2025-07-03 20:56:16,Needs clean-up
+C300292,Dr. Verma Clinic,Clinic,Dermatologist,Narayana Patna,Patna,Bihar,Central,REG772582,Active,2020-07-02,A,2025-10-01 20:59:05,2025-12-28 09:53:49,Legacy mapped
+C300293,DR. YADAV CARE,Chemist,,,Surat,Gujarat,West,REG548744,Active,2021-05-18,C,2023-03-16 18:51:27,2025-02-08 09:38:50,
+C300294,Life Yadav Hospital,Doctor,General Physician,Global Bhopal,Bhopal,Madhya Pradesh,Central,REG423911,Active,2025-01-29,A,2023-03-21 01:06:30,2025-09-23 08:54:25,Legacy mapped
+C300295,City Jain Clinic,Doctor,Diabetologist,Max Vasco da Gama,Vasco da Gama,Goa,West,REG807560,Active,2022-02-18,C,2024-02-09 01:31:49,2025-04-12 05:06:26,Needs clean-up
+C300296,City Bose Care,Doctor,Cardiologist,Aster Dhanbad,Dhanbad,Jharkhand,East,REG168917,Active,2018-01-17,A,2024-06-01 00:40:09,2025-07-03 01:01:26,Unverified
+C300297,Hospital Mishra Medicals,Chemist,,,Coimbatore,Tamil Nadu,South,REG534002,Active,2024-07-22,C,2024-12-30 01:54:20,2025-04-09 09:31:56,Needs clean-up
+C300298,Hospital Pillai Hospital,Doctor,Dermatologist,Narayana Kolkata,Kolkata,West Bengal,East,REG979216,Blacklisted,2023-01-11,C,2025-10-17 10:22:38,2025-11-24 17:31:59,Unverified
+C300299,City Agarwal Hospital,Doctor,Pulmonologist,Yashoda Raipur,Raipur,Chhattisgarh,Central,REG981354,Inactive,2017-07-23,A,2025-03-28 08:46:14,2025-01-11 21:15:40,Legacy mapped
+C300300,City Mishra Clinic,Chemist,,,Gaya,Bihar,Central,REG252546,Active,2024-08-13,B,2025-12-11 13:58:58,2025-09-13 22:41:46,Unverified
+C300301,Care Yadav Hospital,Hospital,Gastroenterologist,Care Faridabad,Faridabad,Haryana,North,REG927550,Active,2024-06-02,B,2023-07-30 18:50:00,2025-07-29 14:40:57,
+C300302,Care Iyer Medicals,Chemist,,,Gurugram,Delhi,North,REG359659,Active,2018-06-22,A,2023-09-21 16:08:27,2025-07-02 16:22:38,Needs clean-up
+C300303,Care Agarwal Pharmacy,Doctor,Cardiologist,Global Amritsar,Amritsar,Punjab,North,REG904277,Active,2019-12-06,A,2024-06-25 21:22:57,2025-07-13 11:07:41,Legacy mapped
+C300304,Dr. Bose Care,Chemist,,,Hyderabad,Telangana,South,,Active,2025-03-25,A,2024-11-04 19:41:18,2025-05-03 10:59:28,Unverified
+C300305,City Reddy Clinic,Hospital,Gastroenterologist,Fortis Guwahati,Guwahati,Assam,East,REG932724,Active,2024-02-24,A,2023-07-13 21:32:05,2025-06-13 08:16:49,Needs clean-up
+C300306,City Bose Care,Clinic,Oncologist,Narayana Udaipur,Udaipur,Rajasthan,Central,REG565513,Active,2024-03-28,C,2023-02-10 20:25:59,2025-03-08 12:42:13,Legacy mapped
+C300307,Hospital Kapoor Hospital,Hospital,Pulmonologist,Apollo Bhopal,Bhopal,Madhya Pradesh,West,REG620127,Active,14/04/2025,A,2025-09-12 16:39:50,2026-01-16 20:15:28,Needs clean-up
+C300308,Prime Singh Pharmacy,Clinic,Oncologist,Fortis Panaji,Panaji,Goa,West,REG415140,Active,2024-08-12,C,2024-04-04 16:58:23,2025-08-20 22:56:36,Legacy mapped
+C300309,Dr. Kapoor Hospital,Doctor,Diabetologist,Global Bilaspur,Bilaspur,Chhattisgarh,Central,REG428893,Active,2022-01-03,C,2025-10-08 03:23:41,2025-06-19 23:14:12,Legacy mapped
+C300310,City Mishra Pharmacy,Hospital,Cardiologist,Aster Kanpur,Kanpur,Uttar Pradesh,North,REG746196,Active,2022-03-19,B,2025-01-08 20:03:09,2025-02-27 00:51:01,
+C300311,City Chawla Medicals,Chemist,,,Guntur,Andhra Pradesh,South,REG647151,Active,2022-03-16,A,2023-01-11 11:07:40,2025-03-06 10:14:32,
+C300312,Hospital Das Pharmacy,Chemist,,,Ahmedabad,Gujarat,West,REG865653,Active,15/15/2025,A,2025-10-16 09:43:53,2026-02-11 12:49:11,Legacy mapped
+C300313,Hospital Patel Care,Chemist,,,Durg,Chhattisgarh,West,REG800798,Active,2023-01-17,B,2023-10-02 21:01:28,2025-06-16 14:38:12,
+C300314,Hope Kulkarni Pharmacy,Doctor,Pulmonologist,Narayana Gaya,Gaya,Bihar,East,REG702605,Inactive,2024-04-23,B,2023-12-27 20:16:42,2025-04-14 17:17:00,Legacy mapped
+C300315,Life Gupta Pharmacy,Chemist,,,Gwalior,Madhya Pradesh,West,,Active,2018-03-26,C,2023-11-16 11:05:41,2025-03-02 00:12:05,Needs clean-up
+C300316,Hope Reddy Hospital,Chemist,,,Ahmedabad,Gujarat,West,REG534373,Active,2023-12-12,B,2025-04-04 23:29:43,2025-07-12 00:05:46,Unverified
+C300317,Prime Patel Care,Doctor,Pulmonologist,Aster Gurugram,Gurugram,Haryana,North,REG458785,Active,2022-03-06,B,2025-05-08 20:54:49,2026-03-05 12:23:47,Needs clean-up
+C300318,Care Patel Care,Clinic,Gastroenterologist,Aster Madurai,Madurai,Tamil Nadu,South,REG744148,Active,2025-02-23,A,2024-05-09 07:03:39,2026-02-06 09:57:55,Needs clean-up
+C300319,Prime Kapoor Care,Doctor,Gastroenterologist,Narayana Mysuru,Mysuru,Karnataka,South,REG978132,Active,2025-11-12,A,2024-10-21 06:49:56,2025-06-01 05:34:38,
+C300320,Hope Singh Care,Hospital,Dermatologist,Aster Raipur,Raipur,Chhattisgarh,West,REG158895,Active,2017-07-26,B,2025-03-26 03:25:38,2025-01-28 07:27:54,Needs clean-up
+C300321,Dr. Reddy Pharmacy,Chemist,,,Panipat,Haryana,North,REG996392,Active,2021-10-31,C,2024-02-20 03:38:36,2025-05-26 13:28:02,Needs clean-up
+C300322,Prime Patel Clinic,Clinic,Pulmonologist,Yashoda Jodhpur,Jodhpur,Rajasthan,North,REG638040,Active,2022-10-19,B,2025-08-18 14:54:36,2025-10-04 16:58:32,Legacy mapped
+C300323,Hope Yadav Medicals,Clinic,Neurologist,Max Cuttack,Cuttack,Odisha,East,REG365956,Inactive,21-10-2024,A,2023-03-15 18:45:28,2025-02-03 10:16:31,Unverified
+C300324,Prime Singh Pharmacy,Hospital,Cardiologist,Max Lucknow,Lucknow,Uttar Pradesh,Central,REG192116,Active,2022-01-02,C,2025-12-04 02:17:01,2025-10-02 05:58:34,Legacy mapped
+C300325,Life Patel Pharmacy,Hospital,Cardiologist,Apollo Jamshedpur,Jamshedpur,Jharkhand,East,REG802659,Active,2025-10-11,A,2023-08-05 11:58:36,2025-07-29 20:15:30,
+C300326,Dr. Pillai Care,Chemist,,,Hubballi,Karnataka,South,REG708399,Active,2021/12/08,A,2024-09-14 13:46:19,2025-05-25 19:16:03,Unverified
+C300327,Hope Mehta Clinic,Hospital,Cardiologist,Global Indore,Indore,Madhya Pradesh,Central,REG837487,Active,09-09-2024,B,2025-12-31 19:03:01,2025-11-16 16:54:27,
+C300328,Prime Patel Pharmacy,Chemist,,,Raipur,Chhattisgarh,West,REG857611,Active,07/07/2025,C,2023-11-08 19:17:10,2025-01-02 13:56:55,Needs clean-up
+C300329,Hope Nair Hospital,Chemist,,,Jaipur,Rajasthan,North,,Active,2024-12-25,C,2024-10-22 22:30:11,2025-05-26 00:02:14,
+C300330,Dr. Bose Hospital,Clinic,Cardiologist,Global Mysuru,Mysuru,Karnataka,South,REG910733,Active,2020-05-29,C,2025-08-16 13:16:41,2025-02-21 19:17:37,Unverified
+C300331,Hope Kulkarni Care,Doctor,Neurologist,Max Raipur,Raipur,Chhattisgarh,Central,REG949146,Active,2023-12-26,A,2023-10-24 14:58:48,2025-09-06 22:48:30,
+C300332,Hope Iyer Clinic,Clinic,Diabetologist,Narayana Varanasi,Varanasi,Uttar Pradesh,Central,REG376739,Active,2023-01-14,A,2023-07-07 07:33:40,2025-01-03 03:07:20,Unverified
+C300333,City Agarwal Care,Doctor,Pulmonologist,Yashoda Gwalior,Gwalior,Madhya Pradesh,West,REG480111,Blacklisted,2019-10-15,A,2024-02-24 15:23:00,2025-09-16 06:39:31,Legacy mapped
+C300334,Hospital Gupta Clinic,Chemist,,,Varanasi,Uttar Pradesh,North,REG251776,Active,2020-12-02,C,2025-09-15 18:56:27,2025-06-16 13:10:35,
+C300335,Dr. Kapoor Hospital,Doctor,Neurologist,Narayana Ahmedabad,Ahmedabad,Gujarat,West,REG855427,Active,2020-06-02,C,2023-12-16 19:57:18,2025-01-22 15:54:43,Legacy mapped
+C300336,Hope Bose Clinic,Chemist,,,Patna,Bihar,Central,REG885545,Active,2025-06-10,A,2025-01-09 16:29:46,2025-04-22 12:01:33,
+C300337,Life Nair Clinic,Hospital,Diabetologist,Fortis Muzaffarpur,Muzaffarpur,Bihar,East,REG582539,Active,12/12/2017,A,2023-10-05 20:28:47,2025-01-13 06:53:19,
+C300338,Prime Joshi Medicals,Clinic,Neurologist,Aster Jamshedpur,Jamshedpur,Jharkhand,East,REG611237,Active,2023-08-15,C,2025-08-25 00:33:01,2026-02-19 22:54:21,Legacy mapped
+C300339,City Nair Clinic,Hospital,Cardiologist,Global Durg,Durg,Chhattisgarh,Central,REG967843,Active,2021-01-29,A,2025-09-23 12:17:51,2025-05-28 10:07:10,Unverified
+C300340,Hope Singh Hospital,Doctor,Diabetologist,Medanta Ahmedabad,Ahmedabad,Gujarat,West,REG938841,Blacklisted,2024-09-15,C,2025-03-02 03:13:33,2025-01-30 14:04:35,Needs clean-up
+C300341,Dr. Verma Pharmacy,Chemist,,,Kanpur,Uttar Pradesh,North,REG643895,Active,2017-10-17,B,2023-10-26 18:33:46,2025-07-13 00:19:44,Legacy mapped
+C300342,Prime Verma Clinic,Doctor,Gastroenterologist,Manipal Bilaspur,Bilaspur,Chhattisgarh,West,REG477795,Active,2024-04-18,B,2023-12-27 10:40:02,2025-12-18 18:24:39,Unverified
+C300343,Hope Pillai Medicals,Hospital,Neurologist,Apollo Ludhiana,Ludhiana,Punjab,North,REG675068,Active,2022-10-27,B,2023-03-05 16:04:05,2025-01-02 14:06:18,Legacy mapped
+C300344,Hope Sharma Medicals,Clinic,Oncologist,Yashoda Vijayawada,Vijayawada,Andhra Pradesh,South,REG400106,Active,2019-05-08,B,2023-10-03 03:53:12,2025-03-30 13:54:50,Needs clean-up
+C300345,City Kulkarni Care,Doctor,Oncologist,Yashoda Bhopal,Bhopal,Madhya Pradesh,West,REG419217,Active,2024-10-31,A,2023-04-06 18:30:36,2025-09-07 10:49:24,Unverified
+C300346,Dr. Pillai Pharmacy,Doctor,Cardiologist,Max Hubballi,Hubballi,Karnataka,South,REG848054,Inactive,2018-03-06,A,2023-11-23 12:22:39,2025-12-21 14:19:24,
+C300347,Hospital Patel Pharmacy,Doctor,Oncologist,Care Bengaluru,Bengaluru,Karnataka,South,REG117785,Active,2018-07-30,B,2024-10-06 16:34:35,2025-02-17 02:34:20,Legacy mapped
+C300348,Dr. Yadav Hospital,Chemist,,,Kanpur,Uttar Pradesh,North,REG515490,Active,2018-02-26,A,2024-12-05 07:06:59,2025-01-22 00:57:52,
+C300349,Dr. Gupta Pharmacy,Chemist,,,Durg,Chhattisgarh,West,REG304439,Active,01 Jun 2019,B,2023-03-07 05:01:54,2025-10-17 20:56:35,
+C300350,Life Chawla Pharmacy,Chemist,,,Lucknow,Uttar Pradesh,Central,REG955597,Active,2022-07-22,A,2025-10-02 05:02:40,2026-01-16 09:23:03,
+C300351,HOSPITAL SIngh hospital,Hospital,Neurologist,Max Vadodara,Vadodara,Gujarat,West,REG441268,Inactive,06/19/2023,B,2023-09-02 15:15:02,2025-07-05 21:04:51,Unverified
+C300352,Hope Yadav Pharmacy,Doctor,Diabetologist,Global Ludhiana,Ludhiana,Punjab,North,REG967202,Active,2017-01-01,B,2024-09-25 02:40:53,2025-04-14 10:36:40,Needs clean-up
+C300353,Hospital Yadav Clinic,Doctor,Oncologist,Yashoda Panaji,Panaji,Goa,West,REG479483,Active,2023-10-15,A,2024-10-17 16:01:44,2025-01-06 00:50:35,Unverified
+C300354,Care Verma Care,Clinic,Dermatologist,Aster Kanpur,Kanpur,Uttar Pradesh,North,REG779881,Active,2017-01-23,A,2024-04-06 18:16:49,2025-11-21 11:55:53,Unverified
+C300355,Dr. Reddy Medicals,Hospital,Pulmonologist,Global Noida,Noida,Uttar Pradesh,Central,,Active,03/18/2021,A,2025-12-05 17:59:38,2025-01-04 12:47:01,
+C300356,Dr. Kulkarni Clinic,Chemist,,,Panaji,Goa,West,REG596144,Active,2020-02-24,B,2023-07-12 12:41:10,2025-12-05 04:43:40,Unverified
+C300357,Life Joshi Medicals,Chemist,,,Kozhikode,Kerala,South,REG922695,Inactive,01/15/2017,C,2025-09-22 02:56:01,2026-03-01 07:24:50,Unverified
+C300358,Dr. Mehta Hospital,Chemist,,,Warangal,Telangana,South,REG845217,Active,2024-09-11,C,2025-06-15 09:21:13,2025-02-02 09:23:37,Unverified
+C300359,Hospital Chawla Care,Doctor,General Physician,Global Durgapur,Durgapur,West Bengal,East,REG593324,Active,not captured,A,2025-07-08 22:08:37,2025-05-11 06:26:40,
+C300360,Care Verma Medicals,Chemist,,,Jaipur,Rajasthan,North,REG797317,Active,23/03/2019,A,2025-06-19 09:07:31,2025-01-31 13:00:10,Legacy mapped
+C300361,City Patel Clinic,Hospital,Neurologist,Fortis Cuttack,Cuttack,Odisha,East,REG295533,Blacklisted,2023-06-18,B,2024-09-04 02:31:23,2025-05-17 21:02:06,Needs clean-up
+C300362,Prime Joshi Hospital,Chemist,,,Guntur,Andhra Pradesh,South,REG567257,Active,2025-06-21,C,2025-04-11 19:40:57,2025-02-22 00:48:58,Legacy mapped
+C300363,Dr. Nair Care,Clinic,Neurologist,Aster Muzaffarpur,Muzaffarpur,Bihar,Central,REG391269,Active,2022-05-19,B,2024-06-15 14:35:52,2025-07-02 12:10:21,
+C300364,City Mishra Clinic,Doctor,General Physician,Global Varanasi,Varanasi,Uttar Pradesh,Central,REG262783,Active,2023-07-05,C,2023-12-16 16:27:07,2025-01-05 04:33:22,Unverified
+C300365,city jain clinic,Chemist,,,Gurugram,Haryana,North,REG805249,Active,2021-08-04,B,2023-08-30 17:48:07,2026-03-06 18:50:54,
+C300366,PRIME JAin clinic,Doctor,Oncologist,Care Rourkela,Rourkela,Odisha,East,REG115697,Active,2017-08-06,A,2025-12-15 09:01:06,2026-01-13 13:40:30,Needs clean-up
+C300367,CITY SHARMa hospital,Doctor,Cardiologist,Fortis Raipur,Raipur,Chhattisgarh,West,REG136704,Active,2020-04-16,B,2024-12-14 22:17:01,2026-03-12 13:37:07,Unverified
+C300368,Hospital Joshi Hospital,Clinic,Dermatologist,Narayana Thiruvananthapuram,Thiruvananthapuram,Kerala,South,REG490760,Active,2020-07-12,C,2025-08-03 19:10:36,2025-07-13 05:47:26,Legacy mapped
+C300369,Hospital Das Care,Chemist,,,Vijayawada,Andhra Pradesh,South,123,Active,2017-06-15,B,2025-04-17 12:48:20,2025-12-16 03:59:59,Unverified
+C300370,Life Yadav Medicals,Doctor,Oncologist,Manipal Amritsar,Amritsar,Punjab,North,REG705342,Active,2024-10-18,C,2023-06-25 20:40:47,2025-08-09 01:59:22,
+C300371,City Mehta Clinic,Hospital,General Physician,Aster Indore,Indore,Madhya Pradesh,Central,REG562879,Active,2022-03-10,A,2025-12-29 01:04:13,2025-02-08 16:16:12,Unverified
+C300372,Prime Kapoor Medicals,Doctor,Gastroenterologist,Fortis Amritsar,Amritsar,Punjab,North,REG876414,Blacklisted,2018-11-30,A,2025-06-30 06:16:29,2025-10-03 15:56:50,Legacy mapped
+C300373,Care Kapoor Hospital,Chemist,,,Patna,Bihar,East,REG303417,Active,2021/06/12,C,2024-10-31 18:11:25,2025-07-26 07:30:40,
+C300374,Hope Singh Care,Hospital,Pulmonologist,Yashoda Udaipur,Udaipur,Rajasthan,North,REG596943,Active,2018-03-03,B,2025-02-03 13:00:33,2025-09-29 01:56:43,Unverified
+C300375,Care Mishra Pharmacy,Hospital,General Physician,Max Udaipur,Udaipur,Rajasthan,North,REG919722,Active,04/21/2019,C,2025-02-12 01:59:51,2025-10-07 14:13:48,Needs clean-up
+C300376,Hope Patel Clinic,Doctor,Oncologist,Max Mysuru,Mysuru,Karnataka,South,REG718106,Active,2017-01-29,B,2024-11-26 00:41:14,2025-01-02 20:33:50,Legacy mapped
+C300377,Care Das Pharmacy,Clinic,Cardiologist,Max Guwahati,Guwahati,Assam,East,REG307186,Active,2023-03-24,A,2024-02-21 07:59:46,2025-09-01 20:08:56,Legacy mapped
+C300378,Care Singh Medicals,Chemist,,,Raipur,Chhattisgarh,West,REG660913,Active,2017-12-28,A,2025-03-25 15:04:26,2025-01-27 20:15:15,Unverified
+C300379,Hospital Pillai Pharmacy,Doctor,Dermatologist,Apollo Noida,Noida,Uttar Pradesh,North,REG533730,Inactive,2022-12-14,C,2023-05-26 00:21:44,2025-01-16 07:37:05,Needs clean-up
+C300380,Life Chawla Clinic,Hospital,Diabetologist,Yashoda Raipur,Raipur,Chhattisgarh,West,REG765009,Active,2017-08-26,C,2023-11-14 05:50:28,2025-11-27 16:06:17,Needs clean-up
+C300381,Prime Kapoor Medicals,Hospital,Neurologist,Max Kanpur,Kanpur,Uttar Pradesh,Central,REG913991,Active,2024-02-04,B,2025-11-13 13:06:55,2025-12-14 02:21:27,Legacy mapped
+C300382,Hope Sharma Care,Clinic,Dermatologist,Medanta Hubballi,Hubballi,Karnataka,South,REG139224,Blacklisted,2017-11-14,A,2023-01-02 08:18:28,2025-02-23 05:02:35,Legacy mapped
+C300383,Hope Jain Pharmacy,Chemist,,,Surat,Gujarat,West,REG670989,Active,2024-11-17,A,2025-09-09 07:51:51,2025-03-08 14:29:26,
+C300384,City Gupta Pharmacy,Doctor,Neurologist,Global Vadodara,Vadodara,Gujarat,West,REG477208,Active,2024-10-30,B,2024-05-29 20:14:56,2025-08-01 12:59:45,Legacy mapped
+C300385,Prime Patel Medicals,Clinic,Neurologist,Manipal Guntur,Guntur,Andhra Pradesh,South,REG574886,Active,2022-11-19,B,2023-10-10 22:39:17,2025-06-23 16:14:26,
+C300386,Care Mishra Medicals,Clinic,Oncologist,Max Udaipur,Udaipur,Rajasthan,Central,REG749559,Active,2020-03-01,A,2024-07-04 08:20:00,2025-04-04 11:53:54,Needs clean-up
+C300387,Prime Pillai Clinic,Clinic,Cardiologist,Global Pune,Pune,Maharashtra,West,REG175103,Inactive,2025-02-10,A,2024-04-24 14:46:26,2025-04-17 05:37:18,
+C300388,Hospital Das Hospital,Chemist,,,Kozhikode,Kerala,South,REG740623,Active,2017-02-09,C,2025-02-07 10:20:54,2025-03-03 00:33:26,
+C300389,Prime Pillai Clinic,Clinic,General Physician,Manipal Jodhpur,Jodhpur,Rajasthan,Central,REG346322,Active,2018-11-13,C,2025-08-22 11:37:18,2025-04-03 11:57:02,
+C300390,Care Das Hospital,Chemist,,,Margao,Goa,West,REG255673,Active,2024-09-08,C,2025-10-11 21:47:48,2025-01-02 10:25:03,Unverified
+C300391,DR. KULKARNI PHARMACY,Doctor,Pulmonologist,Aster Ranchi,Ranchi,Jharkhand,East,REG968271,Active,2024-07-23,A,2024-12-03 06:05:28,2025-07-13 12:01:51,Legacy mapped
+C300392,Hope Bose Medicals,Clinic,Neurologist,Fortis Muzaffarpur,Muzaffarpur,Bihar,East,REG341322,Active,2021-05-05,C,2025-07-13 10:29:21,2026-03-10 11:16:25,
+C300393,Life Sharma Hospital,Hospital,Pulmonologist,Yashoda Raipur,Raipur,Chhattisgarh,West,REG952357,Active,2023-08-09,B,2025-03-30 12:46:03,2025-10-07 22:50:54,
+C300394,Dr. Mishra Care,Chemist,,,Gaya,Bihar,Central,REG420661,Active,2018-03-08,A,2025-03-10 03:58:36,2025-05-04 14:39:03,Legacy mapped
+C300395,Care Singh Care,Chemist,,,Kochi,Kerala,South,REG306881,Active,2020-08-18,B,2025-06-19 19:39:38,2025-01-16 01:30:11,Unverified
+C300396,Hospital Verma Pharmacy,Hospital,Gastroenterologist,Aster Gwalior,Gwalior,Madhya Pradesh,West,REG652474,Inactive,2017-10-29,C,2025-01-28 03:50:03,2025-05-26 03:15:25,Needs clean-up
+C300397,Prime Kulkarni Clinic,Chemist,,,Indore,Madhya Pradesh,West,REG239041,Active,2022-05-18,A,2025-08-16 02:37:26,2025-08-30 10:21:49,Needs clean-up
+C300398,Care Mehta Care,Chemist,,,Bhopal,Madhya Pradesh,Central,REG754919,Active,2020-05-06,A,2025-12-18 04:24:53,2025-10-29 14:25:36,Unverified
+C300399,Life Mehta Medicals,Clinic,Dermatologist,Yashoda Jalandhar,Jalandhar,Punjab,North,REG711449,Active,2022-10-29,B,2025-11-27 13:14:36,2025-02-10 09:07:34,Legacy mapped
+C300400,City Mishra Hospital,Doctor,Pulmonologist,Medanta Guwahati,Guwahati,Assam,East,REG155885,Active,2020-01-22,B,2023-11-05 15:35:26,2025-02-02 01:38:21,Unverified
+C300401,Dr. Bose Hospital,Chemist,,,Vadodara,Gujarat,West,REG357622,Active,2021-04-13,A,2024-05-04 14:34:10,2025-10-14 00:14:20,Needs clean-up
+C300402,Hope Agarwal Medicals,Doctor,Cardiologist,Care Udaipur,Udaipur,Rajasthan,Central,,Active,2018-03-12,A,2024-03-17 19:40:11,2025-06-15 12:28:53,Needs clean-up
+C300403,Prime Das Care,Clinic,Cardiologist,Max Ranchi,Ranchi,Jharkhand,East,REG866633,Active,2022-12-01,B,2023-05-24 12:57:14,2026-02-12 07:48:35,Needs clean-up
+C300404,Hospital Nair Pharmacy,Doctor,Oncologist,Global Kochi,Kochi,Kerala,South,REG417885,Active,2021-06-13,B,2024-07-20 18:31:28,2025-01-16 10:14:25,Unverified
+C300405,Dr. Nair Care,Chemist,,,Cuttack,Odisha,East,REG150747,Inactive,2017-11-09,C,2023-12-28 16:39:15,2025-05-11 16:10:34,
+C300406, Hospital Yadav Hospital  ,Chemist,,,Jaipur,Rajasthan,North,REG547025,Active,2017-06-07,A,2023-12-13 06:12:05,2026-02-07 10:08:51,Unverified
+C300407,Care Pillai Hospital,Clinic,Neurologist,Max Gurugram,Gurugram,Haryana,North,REG642396,Active,2024-04-23,A,2025-09-10 14:52:58,2026-01-08 18:47:54,Legacy mapped
+C300408,Prime Chawla Hospital,Clinic,Neurologist,Apollo Chennai,Chennai,Tamil Nadu,South,REG380757,Active,2021-06-01,B,2023-06-21 13:55:52,2026-01-03 21:11:56,Unverified
+C300409,Hospital Patel Medicals,Doctor,Cardiologist,Care Varanasi,Varanasi,Uttar Pradesh,North,REG800832,Active,2018-07-30,A,2024-06-07 20:27:23,2025-12-25 11:18:27,
+C300410,Life Iyer Pharmacy,Clinic,Pulmonologist,Apollo Bengaluru,Bengaluru,Karnataka,South,REG731235,Inactive,2023-12-05,A,2025-11-10 19:07:57,2025-06-03 21:13:52,Unverified
+C300411,Care Kapoor Clinic,Hospital,Pulmonologist,Yashoda Nizamabad,Nizamabad,Telangana,South,REG543375,Active,2022-07-27,C,2025-11-12 02:53:48,2025-05-08 16:18:45,Needs clean-up
+C300412,Life Mehta Medicals,Doctor,Pulmonologist,Narayana Kolkata,Kolkata,West Bengal,East,,Active,2018-07-22,C,2024-06-17 01:48:22,2025-12-10 10:49:17,Needs clean-up
+C300413,Hope Sharma Pharmacy,Clinic,General Physician,Global Kolkata,Kolkata,West Bengal,East,REG857091,Active,2019-06-15,C,2025-06-19 04:21:15,2026-02-09 00:14:07,Unverified
+C300414,Prime Chawla Hospital,Hospital,Pulmonologist,Max Noida,Noida,Uttar Pradesh,Central,REG821373,Active,2017-09-08,C,2023-12-04 23:48:13,2025-02-25 18:22:59,
+C300415,Prime Jain Clinic,Doctor,Oncologist,Apollo Bilaspur,Bilaspur,Chhattisgarh,West,REG384758,Active,2019-05-07,A,2023-11-22 12:09:01,2025-06-19 21:23:49,Unverified
+C300416,Care Yadav Hospital,Clinic,Pulmonologist,Care Ranchi,Ranchi,Jharkhand,East,REG330309,Active,2023-09-01,A,2024-08-15 06:04:01,2025-10-24 21:22:05,Unverified
+C300417,City Kulkarni Hospital,Doctor,Diabetologist,Yashoda Bilaspur,Bilaspur,Chhattisgarh,West,REG567348,Active,2017/10/19,C,2025-06-04 11:40:41,2025-10-29 21:33:18,Needs clean-up
+C300418,Hospital Jain Pharmacy,Clinic,Neurologist,Apollo Varanasi,Varanasi,Uttar Pradesh,North,REG264147,Active,2024-03-01,C,2025-07-04 11:33:28,2026-02-26 10:03:50,
+C300419,Dr. Mehta Pharmacy,Hospital,Neurologist,Global Mysuru,Mysuru,Karnataka,South,REG585187,Blacklisted,2017-03-27,C,2025-03-27 08:58:34,2025-05-09 15:31:12,Legacy mapped
+C300420,Dr. Das Clinic,Chemist,,,Amritsar,Punjab,North,REG184626,Inactive,2025-05-26,C,2023-01-01 03:04:11,2025-01-30 06:48:25,Needs clean-up
+C300421,Hope Mehta Clinic,Clinic,Cardiologist,Fortis Kozhikode,Kozhikode,Kerala,South,REG914351,Blacklisted,2021-09-18,B,2025-09-17 02:01:31,2025-12-22 18:14:22,Legacy mapped
+C300422,City Sharma Medicals,Hospital,Neurologist,Manipal Margao,Margao,Goa,West,,Active,2017-11-24,C,2025-12-10 07:11:05,2025-06-19 05:36:59,
+C300423,Life Mehta Clinic,Clinic,Cardiologist,Yashoda Varanasi,Varanasi,Uttar Pradesh,North,REG941847,Active,2024-06-10,A,2023-07-17 12:31:08,2025-04-19 04:54:19,Needs clean-up
+C300424,LIFE VERMa pharmacy,Doctor,Cardiologist,Manipal Gaya,Gaya,Bihar,East,REG575139,Active,2018-11-05,A,2024-06-07 03:34:07,2025-01-21 01:29:10,
+C300425, City Reddy Pharmacy  ,Doctor,General Physician,Aster Noida,Noida,Uttar Pradesh,Central,REG768695,Active,2020-09-17,C,2025-01-28 14:48:23,2025-08-19 18:01:56,Legacy mapped
+C300426,City Kulkarni Hospital,Chemist,,,Guntur,Andhra Pradesh,South,REG187154,Active,2023/07/17,C,2024-03-21 23:52:30,2025-09-28 09:34:45,Needs clean-up
+C300427,Care Jain Clinic,Doctor,General Physician,Manipal Bhubaneswar,Bhubaneswar,Odisha,East,,Active,2017-04-17,B,2023-03-08 00:01:09,2025-07-21 14:22:21,Unverified
+C300428,Prime Patel Pharmacy,Chemist,,,Panaji,Goa,West,REG184586,Active,2018-08-01,C,2024-02-19 01:12:53,2026-02-19 11:32:10,
+C300429,Prime Sharma Medicals,Hospital,Oncologist,Apollo Surat,Surat,Gujarat,West,REG885049,Inactive,2024-02-24,C,2023-01-27 17:56:44,2025-09-21 22:27:56,
+C300430,Care Gupta Care,Chemist,,,Amritsar,Punjab,North,REG969198,Active,2018-06-04,A,2023-07-24 04:28:06,2025-12-26 12:33:06,
+C300431,Life Gupta Hospital,Clinic,Gastroenterologist,Narayana Jaipur,Jaipur,Rajasthan,Central,REG538535,Active,2022-01-24,A,2023-05-29 00:28:48,2025-01-04 12:34:26,Needs clean-up
+C300432,Care Das Clinic,Doctor,Pulmonologist,Global Dhanbad,Dhanbad,Jharkhand,East,REG548508,Active,2024-02-18,B,2024-08-20 05:21:11,2025-06-12 14:28:59,Needs clean-up
+C300433,Prime Gupta Medicals,Clinic,Gastroenterologist,Aster Udaipur,Udaipur,Rajasthan,Central,REG504484,Active,2024-06-29,C,2024-05-25 21:30:47,2026-03-01 00:06:16,
+C300434,Care Reddy Medicals,Doctor,Gastroenterologist,Aster Lucknow,Lucknow,Uttar Pradesh,Central,REG761829,Active,26 Aug 2017,B,2025-09-25 15:09:21,2026-01-03 18:26:04,
+C300435,Hospital Pillai Hospital,Hospital,Neurologist,Max Dibrugarh,Dibrugarh,Assam,East,REG816574,Active,2025-09-07,A,2025-06-08 05:35:47,2026-01-27 16:05:20,Needs clean-up
+C300436,Care Patel Medicals,Doctor,General Physician,Manipal Pune,Pune,Maharashtra,West,REG694989,Active,2021-11-18,C,2023-05-06 22:59:33,2025-09-13 14:39:40,Legacy mapped
+C300437,Dr. Kapoor Pharmacy,Chemist,,,Ranchi,Jharkhand,East,REG662855,Active,2017-03-26,C,2025-04-13 09:31:19,2025-03-08 19:40:12,Legacy mapped
+C300438,Dr. Chawla Clinic,Clinic,Pulmonologist,Narayana Raipur,Raipur,Chhattisgarh,West,REG804661,Active,2017-06-15,C,2024-10-01 11:16:33,2026-02-09 04:24:08,Needs clean-up
+C300439,Care Pillai Care,Hospital,Cardiologist,Yashoda Ahmedabad,Ahmedabad,Gujarat,West,REG512456,Blacklisted,2017-01-29,B,2023-08-02 19:28:55,2026-01-16 08:16:58,Needs clean-up
+C300440,Care Yadav Medicals,Hospital,Diabetologist,Narayana Vasco da Gama,Vasco da Gama,Goa,West,REG220401,Active,05/07/2022,A,2025-08-02 03:15:23,2025-12-19 21:09:40,Unverified
+C300441,City Jain Care,Doctor,Gastroenterologist,Narayana Muzaffarpur,Muzaffarpur,Bihar,East,REG560976,Active,2022-11-27,A,2025-09-19 13:26:19,2025-10-01 14:33:19,
+C300442,hospital bose pharmacy,Doctor,Oncologist,Manipal Kozhikode,Kozhikode,Kerala,South,REG400050,Active,2025-10-06,A,2024-06-08 11:08:18,2026-02-27 17:34:07,Needs clean-up
+C300443,Dr. Das Pharmacy,Chemist,,,Amritsar,Punjab,North,REG527173,Active,2018-02-27,C,2023-08-12 01:41:06,2025-05-30 21:49:29,Legacy mapped
+C300444,Prime Jain Medicals,Hospital,Diabetologist,Yashoda Gwalior,Gwalior,Madhya Pradesh,Central,REG844521,Active,22/02/2022,A,2023-10-05 14:31:44,2025-02-23 10:24:41,Unverified
+C300445,Care Mehta Pharmacy,Clinic,Cardiologist,Medanta Kochi,Kochi,Kerala,South,,Active,2017-04-28,C,2023-11-24 05:36:40,2025-01-23 12:16:52,
+C300446,Dr. Nair Medicals,Chemist,,,Jodhpur,Rajasthan,Central,REG437591,Active,2020-07-30,C,2025-07-16 04:33:00,2025-03-28 07:35:56,Needs clean-up
+C300447,Dr. Joshi Care,Doctor,Dermatologist,Yashoda Ranchi,Ranchi,Jharkhand,East,,Active,2025-08-14,C,2025-11-13 00:00:44,2025-05-07 00:00:21,Legacy mapped
+C300448,city iyer clinic,Clinic,Dermatologist,Apollo Raipur,Raipur,Chhattisgarh,West,REG164397,Blacklisted,2025-07-25,B,2023-12-15 05:13:55,2025-12-29 18:29:24,Needs clean-up
+C300449,Care Patel Medicals,Doctor,Pulmonologist,Apollo Mysuru,Mysuru,Karnataka,South,REG979116,Active,2022-02-04,C,2023-10-02 19:42:10,2026-03-02 22:38:19,Legacy mapped
+C300450,Care Kulkarni Clinic,Hospital,Neurologist,Aster Patna,Patna,Bihar,Central,REG710927,Active,2023-01-24,B,2024-07-05 19:20:22,2025-11-08 02:03:39,Legacy mapped
+C300451,Life Nair Medicals,Chemist,,,Coimbatore,Tamil Nadu,South,REG786601,Active,2023-10-31,A,2025-06-09 02:42:38,2025-01-14 11:20:58,Needs clean-up
+C300452,Dr. Mehta Medicals,Clinic,Diabetologist,Apollo Bhubaneswar,Bhubaneswar,Odisha,East,REG809375,Active,2020-05-04,A,2025-05-27 14:36:20,2025-11-18 21:10:41,
+C300453,Care Mehta Medicals,Chemist,,,Guntur,Andhra Pradesh,South,REG745897,Inactive,2018-10-25,C,2024-07-26 10:50:33,2025-06-04 17:47:30,Unverified
+C300454,Life Iyer Medicals,Hospital,General Physician,Yashoda Lucknow,Lucknow,Uttar Pradesh,Central,REG463430,Active,2022-07-14,C,2024-01-15 00:53:03,2025-10-13 20:42:01,Unverified
+C300455,Prime Singh Hospital,Chemist,,,Mumbai,Maharashtra,West,REG789539,Inactive,09 Nov 2020,B,2025-05-13 16:01:44,2025-12-19 17:17:27,
+C300456,Prime Singh Pharmacy,Hospital,Cardiologist,Medanta Noida,Noida,Delhi,North,REG407649,Active,2020-03-15,B,2023-03-18 00:08:58,2025-06-26 03:36:44,
+C300457,Prime Kapoor Care,Chemist,,,Bhopal,Madhya Pradesh,West,REG596016,Active,2020-03-22,C,2025-09-08 15:18:29,2025-07-17 07:57:03,Legacy mapped
+C300458,Prime Verma Care,Doctor,General Physician,Aster Ranchi,Ranchi,Jharkhand,East,REG772078,Active,2024-07-27,A,2025-10-31 00:52:16,2026-02-01 04:02:43,Legacy mapped
+C300459,Care Bose Clinic,Clinic,Neurologist,Aster Chennai,Chennai,Tamil Nadu,South,REG912261,Active,16/08/2022,B,2024-12-05 14:23:46,2025-07-02 11:08:21,Needs clean-up
+C300460,City Kapoor Pharmacy,Doctor,Neurologist,Yashoda Noida,Noida,Uttar Pradesh,Central,REG275955,Active,2022-09-21,B,2023-08-17 07:02:03,2025-01-28 05:21:22,Unverified
+C300461,Care Bose Medicals,Hospital,Oncologist,Max Margao,Margao,Goa,West,REG766301,Active,2020-03-24,B,2023-01-13 09:52:07,2025-12-19 22:19:23,
+C300462,Dr. Kapoor Medicals,Clinic,Oncologist,Fortis Ranchi,Ranchi,Jharkhand,East,REG647959,Active,2018-05-10,A,2025-12-31 20:28:54,2025-07-06 20:39:22,Unverified
+C300463,City Singh Clinic,Doctor,Diabetologist,Max Kanpur,Kanpur,Uttar Pradesh,Central,REG745921,Active,2022-03-08,C,2023-06-28 02:33:00,2025-02-25 22:44:24,Needs clean-up
+C300464,Prime Mehta Medicals,Doctor,Dermatologist,Apollo Panaji,Panaji,Goa,West,REG645015,Active,02/11/2018,A,2025-05-01 18:49:17,2025-08-29 08:38:13,Unverified
+C300465,Dr. Yadav Care,Clinic,Oncologist,Yashoda Gwalior,Gwalior,Madhya Pradesh,West,REG944285,Active,2025-02-26,B,2025-12-08 21:03:34,2025-05-30 06:05:50,Needs clean-up
+C300466,Prime Kulkarni Care,Clinic,Cardiologist,Apollo Rourkela,Rourkela,Odisha,East,REG303125,Active,2021-09-16,B,2024-10-14 22:54:31,2025-06-03 01:08:58,Unverified
+C300467,Hope Jain Hospital,Clinic,Gastroenterologist,Fortis Silchar,Silchar,Assam,East,REG535956,Active,2022-07-25,C,2024-05-10 14:55:13,2025-02-25 16:44:44,Legacy mapped
+C300468,City Gupta Hospital,Hospital,Cardiologist,Max Silchar,Silchar,Assam,East,REG950297,Active,2025-05-27,A,2024-08-14 11:20:53,2025-09-13 02:58:06,Needs clean-up
+C300469,Dr. Mishra Medicals,Chemist,,,Visakhapatnam,Andhra Pradesh,South,REG310933,Active,2018-09-23,A,2023-07-24 14:16:40,2025-01-18 04:33:47,
+C300470,Hospital Mishra Hospital,Clinic,Gastroenterologist,Medanta Lucknow,Lucknow,Uttar Pradesh,North,REG102159,Active,2025-05-19,B,2024-03-02 07:46:23,2025-07-23 08:04:45,Needs clean-up
+C300471,Prime Iyer Hospital,Doctor,Gastroenterologist,Narayana Kozhikode,Kozhikode,Kerala,South,REG192423,Active,2025-02-27,A,2024-12-19 03:30:08,2025-11-29 06:42:24,Unverified
+C300472,Hospital Yadav Care,Chemist,,,Panipat,Haryana,North,REG961873,Active,2020-03-22,C,2025-08-21 04:56:10,2025-05-12 01:57:20,Unverified
+C300473, Hospital Chawla Care  ,Doctor,Cardiologist,Yashoda Mysuru,Mysuru,Karnataka,South,REG241772,Active,2018-11-08,A,2024-07-02 01:32:31,2025-01-19 11:26:35,Legacy mapped
+C300474,Hospital Pillai Hospital,Clinic,Neurologist,Fortis Warangal,Warangal,Telangana,South,REG261313,Active,2023-11-14,C,2025-06-17 09:33:50,2025-07-19 18:35:02,
+C300475,Hope Sharma Pharmacy,Hospital,Oncologist,Max Gaya,Gaya,Bihar,East,REG507176,Active,2017-02-11,B,2024-05-30 14:56:58,2025-07-09 00:06:29,Unverified
+C300476,Prime Jain Medicals,Chemist,,,Faridabad,Haryana,North,REG883916,Active,2022-12-31,B,2025-10-14 23:45:45,2025-03-10 05:12:10,Unverified
+C300477,Dr. Yadav Clinic,Doctor,Oncologist,Global Mysuru,Mysuru,Karnataka,South,REG138984,Active,2022-04-07,A,2024-05-19 12:48:15,2025-06-24 18:05:48,
+C300478,Dr. Nair Clinic,Clinic,Diabetologist,Yashoda Bhubaneswar,Bhubaneswar,Odisha,East,REG997842,Inactive,2020-01-10,A,2023-09-27 20:18:59,2025-06-18 09:08:09,Unverified
+C300479,Dr. Nair Clinic,Hospital,Pulmonologist,Apollo Raipur,Raipur,Chhattisgarh,Central,,Active,15/15/2025,A,2023-11-26 08:42:15,2025-06-20 01:41:37,Needs clean-up
+C300480,Hospital Iyer Medicals,Chemist,,,Gwalior,Madhya Pradesh,Central,REG767122,Inactive,2019-01-23,C,2024-07-28 23:44:33,2025-05-21 13:47:31,Needs clean-up
+C300481,Hope Agarwal Clinic,Clinic,Gastroenterologist,Medanta Durgapur,Durgapur,West Bengal,East,,Active,2017-06-12,C,2023-04-21 12:15:57,2025-05-02 12:03:08,Needs clean-up
+C300482,life iyer pharmacy,Clinic,Neurologist,Aster Hubballi,Hubballi,Karnataka,South,REG252651,Active,2024-07-01,C,2025-08-21 22:28:55,2025-08-21 06:34:46,Legacy mapped
+C300483,Care Kapoor Clinic,Doctor,Diabetologist,Max Rourkela,Rourkela,Odisha,East,REG268416,Inactive,2019-03-18,C,2023-06-19 06:32:59,2025-06-16 05:46:10,Legacy mapped
+C300484,Life Sharma Medicals,Hospital,Dermatologist,Medanta Guwahati,Guwahati,Assam,East,REG957942,Active,2024-09-16,A,2024-07-23 09:04:10,2025-06-09 10:59:10,Legacy mapped
+C300485,Life Sharma Medicals,Clinic,Neurologist,Global Bilaspur,Bilaspur,Chhattisgarh,Central,REG840538,Active,2024-03-23,B,2023-03-12 08:26:58,2025-03-22 22:39:44,Legacy mapped
+C300486,Hospital Jain Medicals,Chemist,,,Visakhapatnam,Andhra Pradesh,South,REG345670,Active,2022-09-14,C,2025-01-17 19:05:46,2026-02-17 19:01:21,Legacy mapped
+C300487,Hope Das Hospital,Chemist,,,Udaipur,Rajasthan,North,123,Blacklisted,2022-05-08,A,2024-04-05 05:47:44,2025-12-15 06:00:00,Needs clean-up
+C300488,Hope Mishra Medicals,Clinic,Cardiologist,Aster Jodhpur,Jodhpur,Rajasthan,North,REG398979,Active,2020-12-04,A,2023-07-20 08:35:15,2026-01-14 11:41:24,Unverified
+C300489,City Nair Pharmacy,Hospital,Dermatologist,Apollo Udaipur,Udaipur,Rajasthan,North,REG449112,Active,2021-02-20,C,2024-06-25 20:06:50,2025-02-26 23:42:03,Unverified
+C300490,Hospital Kapoor Pharmacy,Doctor,Pulmonologist,Yashoda Ranchi,Ranchi,Jharkhand,East,,Active,2019-12-23,A,2024-10-03 18:25:19,2025-09-05 01:15:12,Needs clean-up
+C300491,City Nair Care,Hospital,Neurologist,Medanta Cuttack,Cuttack,Odisha,East,REG868085,Active,2024-02-10,A,2024-08-27 07:19:55,2025-01-31 22:42:57,Legacy mapped
+C300492,Hospital Reddy Care,Chemist,,,Nagpur,Maharashtra,West,REG984276,Inactive,2024-04-18,A,2025-01-17 07:46:04,2026-01-18 05:10:23,Legacy mapped
+C300493,LIFE JOSHi pharmacy,Chemist,,,Vasco da Gama,Goa,West,REG800432,Active,2022-09-05,B,2024-04-21 01:29:42,2026-01-13 00:29:33,
+C300494,Hospital Mishra Hospital,Doctor,General Physician,Apollo Gurugram,Gurugram,Delhi,North,REG735438,Active,2018-03-06,A,2025-11-08 15:19:45,2025-10-28 20:01:01,Unverified
+C300495,Life Iyer Clinic,Doctor,General Physician,Medanta Guwahati,Guwahati,Assam,East,REG281391,Blacklisted,2023-09-28,A,2023-02-03 22:26:18,2025-01-29 08:05:08,
+C300496,Dr. Sharma Hospital,Hospital,Pulmonologist,Apollo Lucknow,Lucknow,Uttar Pradesh,North,REG482135,Active,2023-03-02,B,2023-03-21 12:26:00,2026-01-30 13:28:51,Unverified
+C300497,Care Patel Hospital,Hospital,Pulmonologist,Global Gurugram,Gurugram,Haryana,North,REG378748,Active,2022-04-27,A,2023-11-16 02:21:49,2025-04-28 17:24:07,
+C300498,Hospital Das Care,Clinic,Cardiologist,Narayana Kolkata,Kolkata,West Bengal,East,REG376032,Active,2024-04-04,B,2024-10-28 00:40:16,2025-12-24 15:11:20,Unverified
+C300499,Hospital Das Care,Clinic,General Physician,Apollo Hubballi,Hubballi,Karnataka,South,REG437544,Active,2020-06-08,B,2023-12-29 09:59:01,2025-10-08 16:27:46,
+C300500,Prime Gupta Clinic,Chemist,,,Muzaffarpur,Bihar,Central,REG115659,Inactive,2024-05-06,C,2024-05-01 02:53:55,2025-10-30 03:49:45,Unverified
+C300501,Prime Chawla Pharmacy,Hospital,Cardiologist,Fortis Gurugram,Gurugram,Delhi,North,REG715756,Active,2025-11-20,C,2024-01-14 16:33:28,2025-06-06 23:04:21,Unverified
+C300502,Care Jain Care,Hospital,Pulmonologist,Aster Bilaspur,Bilaspur,Chhattisgarh,Central,REG282149,Active,2024-12-17,B,2025-03-17 13:57:17,2025-10-08 02:56:05,
+C300503,HOSPITAL Mehta clinic,Clinic,Diabetologist,Care Kolkata,Kolkata,West Bengal,East,REG747527,Active,2022-02-09,B,2025-11-05 02:00:31,2025-01-02 16:44:57,Legacy mapped
+C300504,Dr. Gupta Clinic,Chemist,,,Durgapur,West Bengal,East,REG472732,Active,21-04-2023,C,2024-05-24 13:24:05,2026-03-01 22:24:41,Legacy mapped
+C300505,City Reddy Clinic,Chemist,,,Noida,Delhi,North,REG520658,Active,2021-09-11,C,2025-05-16 03:05:54,2025-01-11 17:17:00,Legacy mapped
+C300506,Life Das Clinic,Clinic,Diabetologist,Apollo Gwalior,Gwalior,Madhya Pradesh,Central,REG537696,Active,2019-06-15,C,2024-12-10 01:25:25,2025-12-26 12:41:31,Needs clean-up
+C300507,City Verma Hospital,Doctor,General Physician,Apollo Faridabad,Faridabad,Haryana,North,REG155930,Active,2024/01/08,A,2025-01-08 01:44:45,2025-10-30 16:53:02,Unverified
+C300508,Hope Kulkarni Hospital,Doctor,Pulmonologist,Max Jamshedpur,Jamshedpur,Jharkhand,East,REG538074,Active,22 Feb 2017,A,2023-03-28 14:25:05,2025-10-25 03:48:40,
+C300509,Life Pillai Hospital,Clinic,Oncologist,Manipal Dibrugarh,Dibrugarh,Assam,East,REG198224,Active,2024-10-19,A,2023-09-01 15:27:28,2025-06-20 11:01:44,
+C300510,City Reddy Hospital,Hospital,Neurologist,Narayana Cuttack,Cuttack,Odisha,East,REG797114,Active,2023-12-18,B,2023-04-18 22:34:15,2026-02-26 17:25:02,Legacy mapped
+C300511,Care Joshi Pharmacy,Clinic,Dermatologist,Narayana Bhopal,Bhopal,Madhya Pradesh,Central,REG594908,Inactive,2025-08-29,B,2023-06-03 10:15:16,2025-12-05 22:31:18,Legacy mapped
+C300512,Hospital Verma Pharmacy,Doctor,General Physician,Apollo Bilaspur,Bilaspur,Chhattisgarh,Central,REG665993,Active,13-01-2017,C,2023-10-21 00:32:09,2026-03-10 07:16:58,
+C300513,Life Pillai Medicals,Chemist,,,Mumbai,Maharashtra,West,REG520006,Active,not captured,B,2024-06-17 09:17:57,2025-11-03 01:17:14,Unverified
+C300514,City Iyer Pharmacy,Hospital,Diabetologist,Care Nashik,Nashik,Maharashtra,West,123,Active,2024-04-08,A,2023-12-13 23:24:01,2026-01-17 05:33:41,Unverified
+C300515,Dr. Pillai Medicals,Hospital,Neurologist,Yashoda Vasco da Gama,Vasco da Gama,Goa,West,REG520173,Inactive,2024-01-04,C,2024-03-20 06:42:37,2025-08-19 08:22:12,
+C300516,Hope Bose Pharmacy,Chemist,,,Bhopal,Madhya Pradesh,Central,REG418411,Active,2019-07-09,C,2025-06-22 07:24:49,2025-11-26 20:02:39,
+C300517,Prime Bose Medicals,Hospital,Neurologist,Aster Noida,Noida,Uttar Pradesh,Central,REG209773,Active,2019-11-11,A,2023-02-02 00:10:18,2025-10-31 05:41:31,Unverified
+C300518,Care Patel Clinic,Doctor,Dermatologist,Aster Coimbatore,Coimbatore,Tamil Nadu,South,REG870859,Active,2023-10-29,B,2023-04-01 02:01:24,2025-08-07 10:32:56,Needs clean-up
+C300519,City Agarwal Pharmacy,Hospital,Pulmonologist,Max Durg,Durg,Chhattisgarh,Central,REG329148,Active,2024-11-17,C,2023-03-27 20:42:19,2026-01-05 09:40:21,
+C300520,Hope Singh Hospital,Hospital,Dermatologist,Aster Kozhikode,Kozhikode,Kerala,South,REG123764,Active,2020-04-20,C,2025-12-23 12:02:08,2025-11-06 22:25:50,Unverified
+C300521,Care Singh Care,Doctor,Oncologist,Care Madurai,Madurai,Tamil Nadu,South,REG936666,Blacklisted,2025-12-05,B,2025-12-15 22:31:33,2025-08-06 00:04:22,
+C300522,Dr. Iyer Medicals,Chemist,,,Raipur,Chhattisgarh,Central,REG776954,Active,2025-06-14,A,2025-11-06 06:12:49,2025-09-12 17:33:06,Unverified
+C300523,Life Mishra Clinic,Doctor,Neurologist,Max Panaji,Panaji,Goa,West,REG309714,Active,2017-09-01,C,2023-04-24 14:32:27,2025-08-17 14:55:21,Unverified
+C300524,Life Yadav Care,Chemist,,,Noida,Delhi,North,REG574313,Active,2017-10-06,B,2024-01-06 08:30:17,2025-02-13 11:48:53,
+C300525,Life Patel Hospital,Clinic,Neurologist,Max Ahmedabad,Ahmedabad,Gujarat,West,REG377271,Active,15/15/2025,B,2023-06-03 14:33:10,2025-12-23 14:43:23,Needs clean-up
+C300526,Care Yadav Care,Doctor,Dermatologist,Medanta Ahmedabad,Ahmedabad,Gujarat,West,REG724391,Active,2025-02-20,A,2023-11-14 10:26:43,2025-09-19 06:57:54,Unverified
+C300527,City Joshi Pharmacy,Hospital,Gastroenterologist,Aster Patna,Patna,Bihar,Central,REG100154,Active,2022-04-14,A,2024-08-02 11:07:56,2025-04-09 14:17:42,
+C300528,Prime Agarwal Pharmacy,Clinic,Diabetologist,Max Kozhikode,Kozhikode,Kerala,South,REG800058,Active,2019-01-03,B,2025-01-27 08:21:43,2026-02-27 08:00:14,Unverified
+C300529,Care Chawla Hospital,Clinic,Oncologist,Aster Udaipur,Udaipur,Rajasthan,Central,REG758904,Inactive,2017/07/21,B,2025-06-16 01:21:16,2025-05-14 15:55:25,Unverified
+C300530,Hope Bose Pharmacy,Doctor,General Physician,Global Durg,Durg,Chhattisgarh,Central,REG567953,Active,2022-09-26,C,2024-11-09 23:09:55,2025-09-23 14:04:54,Unverified
+C300531,Dr. Nair Medicals,Hospital,Pulmonologist,Care Bilaspur,Bilaspur,Chhattisgarh,Central,REG351723,Active,2018-12-25,B,2023-05-05 04:39:57,2026-01-29 08:52:56,
+C300532,Hope Bose Pharmacy,Doctor,Dermatologist,Medanta Dhanbad,Dhanbad,Jharkhand,East,REG282555,Active,2022-03-22,A,2023-08-17 11:28:35,2025-08-22 06:30:50,
+C300533,Dr. Das Clinic,Hospital,Dermatologist,Care Ranchi,Ranchi,Jharkhand,East,REG345940,Active,2019-03-20,A,2024-08-20 00:44:40,2025-04-21 02:36:44,
+C300534,Hospital Mishra Pharmacy,Clinic,Cardiologist,Yashoda Indore,Indore,Madhya Pradesh,West,REG705219,Active,2021-05-30,A,2023-06-05 16:08:11,2025-06-09 14:36:40,Legacy mapped
+C300535,Life Verma Pharmacy,Clinic,Dermatologist,Care Warangal,Warangal,Telangana,South,REG380672,Active,2022-03-01,C,2023-10-16 10:29:34,2025-07-09 22:11:12,Unverified
+C300536,Prime Chawla Clinic,Doctor,General Physician,Fortis Kozhikode,Kozhikode,Kerala,South,REG562921,Active,2018-06-11,B,2025-09-06 03:04:22,2025-06-11 16:11:54,Legacy mapped
+C300537,Life Patel Medicals,Doctor,Neurologist,Care Jaipur,Jaipur,Rajasthan,North,REG555904,Active,2024-06-26,C,2024-02-09 03:13:06,2026-02-11 12:57:55,Unverified
+C300538,Life Mishra Clinic,Hospital,Oncologist,Apollo Rourkela,Rourkela,Odisha,East,REG478267,Active,2025-04-10,C,2023-12-25 23:05:02,2025-02-21 05:21:19,Needs clean-up
+C300539,Hope Kulkarni Medicals,Chemist,,,Vasco da Gama,Goa,West,REG993827,Active,15/15/2025,A,2025-09-10 00:23:27,2025-09-30 21:46:08,Unverified
+C300540,Care Singh Hospital,Doctor,General Physician,Aster Raipur,Raipur,Chhattisgarh,Central,REG302348,Active,2023-11-29,C,2025-11-21 21:51:14,2025-08-12 16:27:15,Needs clean-up
+C300541,Dr. Yadav Clinic,Doctor,Pulmonologist,Aster Muzaffarpur,Muzaffarpur,Bihar,East,REG898341,Active,22/04/2017,C,2023-02-17 08:08:55,2025-10-25 09:09:39,Legacy mapped
+C300542,Life Mehta Clinic,Chemist,,,Gurugram,Delhi,North,REG457772,Active,2022-06-03,C,2023-12-14 01:36:37,2026-01-13 06:32:30,Legacy mapped
+C300543,Hope Nair Medicals,Hospital,General Physician,Manipal New Delhi,New Delhi,Delhi,North,REG960508,Inactive,2017-06-17,A,2025-01-25 00:49:42,2026-02-04 21:23:39,Unverified
+C300544,Hope Verma Pharmacy,Clinic,Cardiologist,Manipal Jamshedpur,Jamshedpur,Jharkhand,East,,Active,2017-01-26,B,2024-07-07 13:33:01,2025-02-10 22:49:12,
+C300545,Care Das Hospital,Doctor,Dermatologist,Fortis Bhubaneswar,Bhubaneswar,Odisha,East,REG212955,Active,2019-12-26,C,2024-11-11 19:40:47,2025-12-02 20:39:08,
+C300546,Prime Chawla Care,Clinic,Cardiologist,Fortis Durg,Durg,Chhattisgarh,West,REG407014,Active,2020-07-22,C,2023-09-21 00:58:53,2026-02-28 11:36:19,Legacy mapped
+C300547,Prime Pillai Care,Clinic,Cardiologist,Fortis Mumbai,Mumbai,Maharashtra,West,REG964219,Active,2021-09-02,A,2025-02-27 09:13:38,2025-06-03 11:40:54,Legacy mapped
+C300548,Dr. Sharma Medicals,Hospital,Oncologist,Fortis Silchar,Silchar,Assam,East,REG451030,Active,2025-11-15,A,2025-01-04 07:11:50,2026-01-30 11:27:47,Legacy mapped
+C300549,Hope Das Care,Chemist,,,Dibrugarh,Assam,East,REG835036,Active,2018-02-03,C,2025-04-08 18:46:13,2025-03-25 22:18:02,Unverified
+C300550,Care Singh Medicals,Hospital,Cardiologist,Apollo Panaji,Panaji,Goa,West,REG775227,Active,12/06/2021,B,2025-06-21 21:01:39,2025-12-14 11:09:04,Unverified
+C300551,City Singh Medicals,Chemist,,,Muzaffarpur,Bihar,Central,REG134298,Blacklisted,2024-05-28,C,2023-10-20 10:49:58,2026-02-08 17:53:40,Unverified
+C300552,Life Sharma Clinic,Hospital,General Physician,Manipal Raipur,Raipur,Chhattisgarh,West,REG260856,Active,2025-11-11,C,2025-04-18 18:41:44,2025-06-06 16:22:13,
+C300553,Prime Singh Hospital,Doctor,Gastroenterologist,Global Vasco da Gama,Vasco da Gama,Goa,West,REG785590,Active,2020-08-01,A,2023-05-28 17:06:15,2025-12-30 22:24:04,Needs clean-up
+C300554,Care Reddy Clinic,Chemist,,,New Delhi,Delhi,North,REG630932,Inactive,2025/02/18,B,2024-10-28 05:20:20,2025-05-08 22:36:24,Legacy mapped
+C300555,Care Reddy Clinic,Chemist,,,Gaya,Bihar,East,REG826014,Active,2023-01-30,B,2023-05-06 02:58:53,2025-01-30 19:12:42,Legacy mapped
+C300556,Life Kapoor Care,Doctor,Pulmonologist,Medanta Gurugram,Gurugram,Haryana,North,REG345556,Active,2017-06-04,C,2025-04-11 23:21:59,2026-01-23 04:59:43,Needs clean-up
+C300557,City Kulkarni Hospital,Clinic,Dermatologist,Apollo Ludhiana,Ludhiana,Punjab,North,,Active,2019-06-18,C,2023-02-16 03:26:29,2025-10-24 12:21:23,Needs clean-up
+C300558,Life Pillai Hospital,Hospital,Oncologist,Manipal Ahmedabad,Ahmedabad,Gujarat,West,REG512175,Active,2022-09-01,C,2025-09-23 08:42:38,2025-11-26 01:20:12,
+C300559,Hospital Pillai Care,Chemist,,,Silchar,Assam,East,REG259807,Active,2019-01-04,A,2023-02-23 22:32:31,2025-04-05 14:18:59,
+C300560,City Bose Medicals,Chemist,,,Panipat,Haryana,North,REG188160,Active,2023-03-11,B,2025-01-01 22:50:23,2025-03-27 19:27:16,Legacy mapped
+C300561,Hospital Nair Medicals,Clinic,Cardiologist,Medanta Bhubaneswar,Bhubaneswar,Odisha,East,REG602839,Inactive,2023-05-10,C,2023-05-03 21:10:01,2025-03-21 19:04:41,Needs clean-up
+C300562, City Mehta Clinic  ,Hospital,Cardiologist,Care Visakhapatnam,Visakhapatnam,Andhra Pradesh,South,REG216616,Blacklisted,2020-04-06,B,2025-02-16 04:46:23,2025-04-27 01:13:03,Legacy mapped
+C300563,DR. REDDy clinic,Doctor,General Physician,Medanta Kolkata,Kolkata,West Bengal,East,REG293896,Active,not captured,B,2025-10-25 21:55:43,2025-01-15 11:21:42,Legacy mapped
+C300564,Life Verma Hospital,Hospital,General Physician,Aster Visakhapatnam,Visakhapatnam,Andhra Pradesh,South,REG782100,Active,2022-10-24,B,2024-01-12 11:25:42,2025-10-30 13:41:49,Unverified
+C300565,Prime Bose Pharmacy,Doctor,Neurologist,Global New Delhi,New Delhi,Delhi,North,REG573641,Active,2021-07-09,A,2024-03-21 18:26:32,2025-01-14 01:28:07,
+C300566,City Agarwal Clinic,Doctor,Neurologist,Fortis Noida,Noida,Uttar Pradesh,Central,REG984330,Active,2017-02-03,C,2024-07-31 04:08:44,2025-07-09 18:46:14,Legacy mapped
+C300567,Hospital Singh Care,Chemist,,,Madurai,Tamil Nadu,South,REG177993,Active,2023-12-21,C,2025-08-23 09:43:19,2025-07-31 18:31:02,Needs clean-up
+C300568,Prime Reddy Care,Doctor,Neurologist,Yashoda Gurugram,Gurugram,Delhi,North,REG234619,Active,19/03/2019,A,2024-10-21 20:23:59,2025-09-22 12:00:11,Needs clean-up
+C300569,City Mishra Hospital,Hospital,Dermatologist,Yashoda Bhubaneswar,Bhubaneswar,Odisha,East,REG399480,Active,2019-04-26,B,2023-05-22 08:29:41,2025-10-10 15:22:55,
+C300570,Dr. Das Medicals,Doctor,Gastroenterologist,Medanta Indore,Indore,Madhya Pradesh,Central,REG163383,Active,2019-12-03,C,2024-06-07 05:17:19,2025-04-29 14:38:52,Legacy mapped
+C300571,Care Joshi Pharmacy,Chemist,,,Indore,Madhya Pradesh,West,REG222397,Active,2021-07-26,A,2025-12-13 05:47:31,2026-01-03 14:41:14,Unverified
+C300572,Hope Mishra Hospital,Clinic,Dermatologist,Care Indore,Indore,Madhya Pradesh,West,REG825208,Blacklisted,2024-03-06,A,2025-11-23 16:06:20,2025-08-01 15:20:54,Unverified
+C300573,Care Bose Medicals,Chemist,,,Amritsar,Punjab,North,REG859043,Active,2017-09-07,B,2025-06-24 20:03:53,2025-06-08 20:40:23,Unverified
+C300574,Hospital Reddy Hospital,Clinic,Cardiologist,Care Bengaluru,Bengaluru,Karnataka,South,REG468513,Active,2019/01/22,C,2025-01-01 12:28:44,2025-03-07 08:03:23,Unverified
+C300575,Life Mishra Medicals,Clinic,Cardiologist,Narayana Cuttack,Cuttack,Odisha,East,REG781661,Active,2025-07-08,C,2024-07-06 06:28:19,2025-03-21 16:47:08,Legacy mapped
+C300576,Dr. Sharma Pharmacy,Chemist,,,Ludhiana,Punjab,North,REG144001,Active,2018-10-03,C,2023-05-07 21:06:46,2025-05-23 16:29:26,
+C300577,hospital agarwal care,Clinic,Oncologist,Max Gaya,Gaya,Bihar,Central,REG870453,Active,2023-12-24,A,2024-01-03 01:23:46,2025-01-01 13:46:22,
+C300578,Hope Pillai Hospital,Chemist,,,Bilaspur,Chhattisgarh,West,REG327982,Active,2019-12-19,A,2023-07-31 23:01:51,2025-01-18 21:10:02,Needs clean-up
+C300579,Dr. Kapoor Clinic,Chemist,,,Gwalior,Madhya Pradesh,West,REG977141,Active,2022-03-25,B,2023-09-13 19:24:30,2025-10-30 05:56:36,Needs clean-up
+C300580,Hospital Patel Hospital,Chemist,,,Panipat,Haryana,North,REG286790,Active,2017-07-11,B,2024-03-20 02:50:43,2025-01-24 14:29:10,Legacy mapped
+C300581,Hope Kulkarni Clinic,Chemist,,,Thiruvananthapuram,Kerala,South,REG407292,Active,2017-05-16,A,2025-09-22 12:56:44,2025-11-25 15:42:55,Needs clean-up
+C300582, Dr. Patel Clinic  ,Doctor,General Physician,Max Kozhikode,Kozhikode,Kerala,South,REG708734,Active,2019-07-01,B,2023-12-03 04:13:29,2025-09-10 10:02:17,Unverified
+C300583,Care Mehta Medicals,Hospital,Oncologist,Aster Indore,Indore,Madhya Pradesh,Central,REG529666,Active,2024-12-30,A,2025-05-06 03:25:46,2026-01-16 11:20:40,Unverified
+C300584,City Kulkarni Medicals,Hospital,Oncologist,Max Guntur,Guntur,Andhra Pradesh,South,REG412302,Active,2021/04/29,C,2023-03-13 09:30:42,2025-07-14 02:03:09,Needs clean-up
+C300585,Prime Mehta Clinic,Doctor,Cardiologist,Apollo Gaya,Gaya,Bihar,East,REG792306,Active,2017-05-15,B,2023-01-22 06:20:26,2026-02-03 05:15:28,Legacy mapped
+C300586,Prime Yadav Care,Chemist,,,Dhanbad,Jharkhand,East,REG474634,Active,2023-08-27,B,2024-10-17 12:46:15,2025-04-01 05:43:25,Needs clean-up
+C300587,Hope Jain Care,Clinic,Cardiologist,Global Bhopal,Bhopal,Madhya Pradesh,Central,REG814677,Active,2023-07-11,A,2025-04-10 19:18:08,2026-01-26 04:08:56,Legacy mapped
+C300588,Hope Bose Hospital,Doctor,Pulmonologist,Care Rourkela,Rourkela,Odisha,East,REG509219,Active,2024-08-15,B,2023-11-28 05:42:16,2025-07-06 16:57:52,Legacy mapped
+C300589,Hospital Mishra Care,Hospital,Gastroenterologist,Manipal Bhopal,Bhopal,Madhya Pradesh,West,REG328737,Active,2020-12-11,C,2024-01-09 12:26:33,2025-07-27 12:41:33,
+C300590,care gupta care,Clinic,Neurologist,Max Indore,Indore,Madhya Pradesh,Central,REG482306,Active,2021-08-03,C,2023-02-02 08:30:55,2025-01-03 19:09:35,
+C300591,Hospital Reddy Clinic,Chemist,,,Coimbatore,Tamil Nadu,South,REG964045,Active,2019-07-22,C,2023-12-26 20:09:43,2025-07-28 23:45:32,Unverified
+C300592,Prime Kapoor Clinic,Clinic,Diabetologist,Manipal Varanasi,Varanasi,Uttar Pradesh,Central,REG866469,Active,2019-05-28,A,2024-09-25 00:43:30,2025-03-31 16:05:50,Unverified
+C300593,City Pillai Care,Doctor,Dermatologist,Yashoda Jaipur,Jaipur,Rajasthan,Central,REG132308,Active,2017-09-13,B,2023-02-09 19:13:14,2025-07-21 23:11:28,Legacy mapped
+C300594,Life Agarwal Medicals,Hospital,Diabetologist,Aster Gaya,Gaya,Bihar,East,REG935987,Active,2024-12-02,B,2024-01-03 05:57:09,2025-02-22 10:22:15,Legacy mapped
+C300595,Prime Iyer Medicals,Hospital,Dermatologist,Care Kolkata,Kolkata,West Bengal,East,REG201295,Active,2020-10-17,C,2023-05-21 13:00:34,2025-07-24 05:49:18,Unverified
+C300596,Prime Sharma Hospital,Clinic,Dermatologist,Narayana Ludhiana,Ludhiana,Punjab,North,REG772565,Active,2020-06-02,B,2023-05-15 21:05:32,2025-02-13 06:58:57,Legacy mapped
+C300597,Hope Patel Medicals,Doctor,Oncologist,Aster Kanpur,Kanpur,Uttar Pradesh,North,REG482673,Active,2019-06-10,B,2025-11-07 10:57:50,2025-02-02 12:29:56,Needs clean-up
+C300598,Prime Kapoor Medicals,Clinic,Cardiologist,Apollo Muzaffarpur,Muzaffarpur,Bihar,East,REG244610,Active,2020-06-08,C,2024-12-12 21:06:54,2025-05-29 07:28:42,
+C300599,Care Chawla Care,Hospital,Pulmonologist,Max Rourkela,Rourkela,Odisha,East,REG225452,Active,2020-01-18,C,2024-07-13 04:11:09,2025-02-20 05:43:19,Legacy mapped
+C300600,City Kulkarni Care,Doctor,Oncologist,Medanta Jodhpur,Jodhpur,Rajasthan,North,REG209006,Active,03-06-2024,C,2025-01-18 17:15:46,2025-10-14 10:00:32,Legacy mapped
+C300601,Care Jain Clinic,Doctor,Cardiologist,Narayana Coimbatore,Coimbatore,Tamil Nadu,South,REG328157,Active,2019-04-07,C,2024-08-26 07:04:44,2025-08-14 02:38:43,
+C300602,Life Patel Hospital,Chemist,,,Ahmedabad,Gujarat,West,REG321435,Active,2022-09-04,A,2024-10-24 09:06:31,2026-02-15 13:34:36,Legacy mapped
+C300603,Care Joshi Care,Chemist,,,Mysuru,Karnataka,South,REG418389,Active,31/03/2023,C,2023-07-24 18:42:41,2025-09-21 02:27:47,Legacy mapped
+C300604,Care Jain Clinic,Doctor,Oncologist,Narayana Muzaffarpur,Muzaffarpur,Bihar,East,REG327525,Inactive,2018-03-31,A,2025-04-28 14:44:18,2026-03-11 12:05:27,
+C300605,Hospital Bose Care,Hospital,Pulmonologist,Manipal Nagpur,Nagpur,Maharashtra,West,REG182027,Active,2022-06-05,A,2025-05-05 19:48:58,2025-07-11 07:51:04,Legacy mapped
+C300606,Hope Bose Clinic,Clinic,General Physician,Aster Varanasi,Varanasi,Uttar Pradesh,North,REG247649,Active,2023-03-22,B,2023-12-14 19:12:04,2025-11-12 03:41:24,Needs clean-up
+C300607,Life Mehta Care,Chemist,,,Gaya,Bihar,Central,REG737044,Active,2020-11-12,A,2023-09-05 14:21:20,2026-02-14 00:16:25,
+C300608,Dr. Gupta Medicals,Chemist,,,Nagpur,Maharashtra,West,REG497029,Active,2021-12-08,B,2023-04-28 18:18:05,2025-05-13 04:22:59,
+C300609,City Verma Clinic,Clinic,Oncologist,Narayana Noida,Noida,Uttar Pradesh,Central,REG892445,Active,11-05-2019,C,2025-05-25 15:32:13,2026-02-26 09:12:59,Unverified
+C300610,Life Gupta Medicals,Clinic,Gastroenterologist,Aster Lucknow,Lucknow,Uttar Pradesh,Central,REG789460,Active,28 Dec 2024,C,2024-07-06 07:31:44,2025-07-28 06:26:25,Legacy mapped
+C300611,Prime Reddy Pharmacy,Clinic,Cardiologist,Manipal Patna,Patna,Bihar,Central,REG459129,Active,2019-03-11,C,2024-07-05 11:51:03,2025-08-06 21:36:33,Unverified
+C300612,Hospital Verma Medicals,Clinic,Pulmonologist,Care Durg,Durg,Chhattisgarh,Central,REG645793,Active,2020-02-08,A,2025-07-03 18:13:44,2026-03-03 19:19:58,Legacy mapped
+C300613,Hospital Patel Hospital,Chemist,,,Panipat,Haryana,North,REG134786,Active,2021-05-14,A,2024-09-29 04:35:23,2025-09-11 08:02:19,
+C300614,Prime Sharma Clinic,Clinic,Gastroenterologist,Care Rourkela,Rourkela,Odisha,East,REG953022,Active,2022-01-29,C,2025-06-23 18:51:38,2025-09-08 10:04:42,
+C300615,Hope Mishra Care,Doctor,Neurologist,Manipal Indore,Indore,Madhya Pradesh,Central,REG943837,Active,2017-06-21,B,2023-08-31 22:47:04,2025-09-13 01:32:09,Legacy mapped
+C300616,dr. singh medicals,Chemist,,,Hubballi,Karnataka,South,REG473184,Active,2018-01-19,B,2025-06-22 08:57:43,2026-03-01 14:11:39,
+C300617,Life Pillai Clinic,Hospital,Diabetologist,Apollo Gaya,Gaya,Bihar,East,REG618558,Active,2020-04-14,B,2025-02-10 17:18:18,2025-03-11 12:14:12,Legacy mapped
+C300618,Care Patel Medicals,Clinic,Pulmonologist,Manipal Kozhikode,Kozhikode,Kerala,South,REG688726,Active,07/19/2018,A,2024-03-02 01:07:27,2026-02-11 01:25:42,Unverified
+C300619,City Kulkarni Clinic,Chemist,,,Guwahati,Assam,East,REG224527,Inactive,2025-04-17,C,2024-02-03 06:18:45,2025-12-18 20:14:59,
+C300620,Dr. Yadav Care,Hospital,Cardiologist,Manipal Pune,Pune,Maharashtra,West,REG330415,Active,2022-03-05,C,2025-12-03 03:43:05,2025-12-05 00:34:51,
+C300621,Hope Das Care,Clinic,Oncologist,Max Madurai,Madurai,Tamil Nadu,South,REG802680,Active,2020-07-20,A,2025-01-02 13:19:17,2025-12-04 02:57:04,Legacy mapped
+C300622,Hospital Kulkarni Medicals,Clinic,Diabetologist,Max Gaya,Gaya,Bihar,East,REG117469,Active,2024-11-16,B,2023-10-22 01:14:04,2025-09-01 20:22:39,
+C300623,City Singh Medicals,Doctor,General Physician,Care Patna,Patna,Bihar,East,REG494587,Active,2019-08-23,C,2023-07-03 00:24:54,2026-01-03 15:14:14,Legacy mapped
+C300624,Prime Singh Hospital,Chemist,,,Bilaspur,Chhattisgarh,Central,REG286651,Active,2021-05-22,C,2023-12-17 07:35:23,2025-10-08 11:46:21,Legacy mapped
+C300625,City Mishra Hospital,Chemist,,,New Delhi,Delhi,North,REG425103,Active,01/04/2022,A,2025-01-20 03:51:46,2026-02-26 22:35:54,Needs clean-up
+C300626,Dr. Bose Pharmacy,Hospital,Diabetologist,Global Jalandhar,Jalandhar,Punjab,North,REG461125,Active,2024-01-13,C,2025-12-20 07:36:04,2025-01-14 06:11:00,Unverified
+C300627,Hope Patel Care,Hospital,Gastroenterologist,Global New Delhi,New Delhi,Delhi,North,REG724363,Active,2020-08-31,B,2023-08-23 04:27:13,2025-08-26 01:41:03,Needs clean-up
+C300628,City Sharma Clinic,Hospital,Oncologist,Fortis Muzaffarpur,Muzaffarpur,Bihar,Central,REG550276,Active,2023-11-09,A,2023-08-30 05:31:18,2025-08-02 05:06:54,Legacy mapped
+C300629,City Chawla Hospital,Hospital,Neurologist,Narayana Warangal,Warangal,Telangana,South,REG167037,Active,02/19/2025,C,2023-03-09 18:57:46,2025-10-18 09:55:19,
+C300630,Life Singh Pharmacy,Clinic,Oncologist,Max Jamshedpur,Jamshedpur,Jharkhand,East,REG537697,Inactive,2020-12-20,C,2025-05-27 09:31:27,2025-08-02 18:22:57,Unverified
+C300631,Dr. Joshi Pharmacy,Chemist,,,Gwalior,Madhya Pradesh,West,REG154795,Active,2025-09-06,C,2025-04-26 08:55:21,2025-02-04 03:23:37,
+C300632,Hope Bose Care,Clinic,Neurologist,Max Guwahati,Guwahati,Assam,East,REG496261,Inactive,2021-01-02,A,2023-04-07 09:44:25,2025-07-28 00:44:40,Needs clean-up
+C300633,Dr. Mishra Care,Chemist,,,Kozhikode,Kerala,South,REG446281,Active,2024-03-03,A,2023-02-26 20:39:10,2025-04-03 10:11:07,Legacy mapped
+C300634,Care Yadav Clinic,Chemist,,,Kochi,Kerala,South,REG439929,Inactive,2020/04/17,B,2024-06-23 18:54:30,2025-11-19 02:20:42,
+C300635,Prime Joshi Medicals,Chemist,,,Thiruvananthapuram,Kerala,South,REG428359,Active,2019-07-19,B,2025-10-21 21:18:36,2025-11-08 20:53:38,
+C300636,Prime Chawla Hospital,Chemist,,,Bilaspur,Chhattisgarh,West,REG596480,Active,2018-06-16,A,2023-04-01 02:35:05,2025-09-12 21:19:48,Needs clean-up
+C300637,Hope Kapoor Clinic,Chemist,,,Bengaluru,Karnataka,South,REG691953,Active,2017-08-09,B,2023-01-06 09:43:48,2025-06-14 19:48:24,
+C300638,Dr. Agarwal Medicals,Doctor,Pulmonologist,Yashoda Muzaffarpur,Muzaffarpur,Bihar,Central,REG805050,Blacklisted,2025-04-01,B,2023-12-11 02:01:45,2025-06-03 05:01:43,Unverified
+C300639,Care Kulkarni Care,Chemist,,,Jaipur,Rajasthan,North,REG282523,Active,03/09/2021,A,2024-11-16 03:38:03,2025-10-21 06:29:23,Needs clean-up
+C300640,Prime Yadav Care,Doctor,Dermatologist,Aster Nashik,Nashik,Maharashtra,West,REG218221,Active,2018-02-16,A,2024-06-21 17:13:24,2026-03-11 19:20:49,Unverified
+C300641,City Verma Pharmacy,Clinic,Gastroenterologist,Max Kanpur,Kanpur,Uttar Pradesh,Central,REG536058,Active,15/15/2025,B,2024-05-30 19:01:27,2025-01-11 16:41:11,Needs clean-up
+C300642,City Gupta Hospital,Hospital,General Physician,Max Mumbai,Mumbai,Maharashtra,West,,Active,2021-02-05,C,2025-02-24 18:07:21,2026-02-04 15:13:45,Unverified
+C300643,Hospital Singh Pharmacy,Clinic,Neurologist,Yashoda Kanpur,Kanpur,Uttar Pradesh,Central,REG381617,Active,2025/03/19,C,2025-08-27 22:33:31,2025-01-02 03:35:33,
+C300644,Prime Das Medicals,Hospital,Oncologist,Max Gurugram,Gurugram,Delhi,North,REG198316,Active,30 Nov 2017,B,2023-01-26 21:29:56,2026-01-24 03:09:31,Needs clean-up
+C300645,Prime Chawla Care,Clinic,Oncologist,Fortis Patna,Patna,Bihar,Central,REG280534,Active,10-09-2022,A,2023-04-21 09:18:33,2025-05-31 21:52:45,Legacy mapped
+C300646,Life Mehta Medicals,Doctor,Gastroenterologist,Fortis Durgapur,Durgapur,West Bengal,East,REG136058,Active,2024-07-01,B,2023-02-04 00:45:50,2025-11-20 05:32:18,Legacy mapped
+C300647,City Reddy Medicals,Doctor,Gastroenterologist,Manipal Hyderabad,Hyderabad,Telangana,South,REG923408,Active,2024-07-31,B,2024-03-05 08:02:14,2025-01-31 10:47:42,Needs clean-up
+C300648,Hospital Gupta Clinic,Clinic,Cardiologist,Yashoda Bilaspur,Bilaspur,Chhattisgarh,Central,REG528349,Active,2017-07-12,A,2024-11-16 04:39:59,2025-12-19 15:39:26,Unverified
+C300649,Life Bose Care,Doctor,Cardiologist,Aster Ranchi,Ranchi,Jharkhand,East,REG639132,Active,06/28/2018,A,2025-07-25 21:24:27,2025-05-26 23:40:40,Unverified
+C300650,PRIME GUPTA HOSPITAL,Doctor,Diabetologist,Fortis Vijayawada,Vijayawada,Andhra Pradesh,South,REG368736,Inactive,2024-09-21,C,2024-10-30 00:37:08,2026-02-24 18:05:53,Unverified
+C300651,Care Kulkarni Hospital,Chemist,,,Udaipur,Rajasthan,Central,REG468889,Active,2024-05-22,A,2024-08-14 15:16:50,2026-03-04 09:08:43,
+C300652,Hope Sharma Hospital,Chemist,,,Margao,Goa,West,REG397273,Active,2024-10-12,B,2025-09-20 09:33:04,2026-02-13 09:47:20,Legacy mapped
+C300653,Life Jain Care,Chemist,,,Rourkela,Odisha,East,REG126096,Active,2022-05-03,C,2024-08-24 04:04:15,2025-11-02 03:14:49,Needs clean-up
+C300654,Hope Gupta Medicals,Chemist,,,Jodhpur,Rajasthan,Central,REG238943,Active,2025-04-11,A,2025-01-11 08:53:09,2025-03-25 08:07:10,Unverified
+C300655,Prime Reddy Clinic,Chemist,,,Jalandhar,Punjab,North,REG340734,Inactive,2018-08-22,A,2025-06-29 09:58:04,2025-11-03 15:22:13,Needs clean-up
+C300656,Hospital Chawla Medicals,Hospital,Oncologist,Yashoda Noida,Noida,Delhi,North,REG578200,Active,2018-10-15,A,2023-01-02 16:21:58,2025-09-29 06:40:29,Unverified
+C300657,Hospital Patel Medicals,Hospital,Dermatologist,Narayana Guwahati,Guwahati,Assam,East,REG862588,Active,2025-08-01,C,2025-11-22 22:42:05,2025-09-28 03:58:06,Unverified
+C300658,Care Nair Care,Hospital,Gastroenterologist,Manipal Kochi,Kochi,Kerala,South,REG716805,Active,2020-07-31,B,2024-01-21 09:12:12,2025-05-26 18:43:29,
+C300659,Dr. Kulkarni Clinic,Chemist,,,Patna,Bihar,Central,REG912830,Active,2025-08-29,A,2023-02-20 19:41:05,2025-12-15 23:48:29,Legacy mapped
+C300660,Care Gupta Care,Hospital,Oncologist,Care Kanpur,Kanpur,Uttar Pradesh,North,REG278999,Active,2019-09-07,C,2023-02-28 15:07:57,2025-03-11 02:58:57,Legacy mapped
+C300661,Dr. Nair Hospital,Doctor,Dermatologist,Global Dhanbad,Dhanbad,Jharkhand,East,REG976667,Active,01-08-2025,B,2024-08-18 20:39:23,2025-04-01 01:28:24,
+C300662,Dr. Kulkarni Pharmacy,Doctor,Oncologist,Global Rourkela,Rourkela,Odisha,East,REG546932,Active,2017-08-19,A,2025-12-31 01:03:23,2025-05-22 09:01:48,Legacy mapped
+C300663,City Nair Clinic,Doctor,General Physician,Max Indore,Indore,Madhya Pradesh,West,REG594246,Active,2017-05-18,A,2025-03-01 13:48:34,2025-06-28 15:55:19,Legacy mapped
+C300664,Prime Bose Care,Chemist,,,Muzaffarpur,Bihar,Central,REG940883,Inactive,2021-05-10,A,2023-04-08 05:06:11,2025-10-31 02:34:10,Legacy mapped
+C300665,Prime Reddy Care,Chemist,,,Surat,Gujarat,West,REG132805,Active,2025-06-18,C,2023-06-27 01:09:24,2025-03-20 07:28:01,Unverified
+C300666,City Agarwal Clinic,Hospital,Pulmonologist,Max Noida,Noida,Uttar Pradesh,North,REG441844,Active,2021-05-31,B,2024-07-24 15:24:14,2026-02-20 02:27:38,
+C300667,Life Jain Clinic,Hospital,General Physician,Medanta Gaya,Gaya,Bihar,East,REG313934,Active,2019-11-14,B,2025-05-18 14:55:24,2026-01-17 04:10:26,Needs clean-up
+C300668,Hope Sharma Hospital,Clinic,Pulmonologist,Narayana Nashik,Nashik,Maharashtra,West,REG892858,Active,2018-12-01,C,2023-03-30 11:38:50,2025-08-07 08:09:23,Unverified
+C300669,Care Gupta Pharmacy,Clinic,General Physician,Aster Muzaffarpur,Muzaffarpur,Bihar,Central,REG778228,Active,2022-09-27,C,2025-09-21 07:04:06,2025-08-08 01:07:22,Needs clean-up
+C300670,Dr. Reddy Hospital,Hospital,Neurologist,Max Rourkela,Rourkela,Odisha,East,REG197924,Active,2019-12-06,A,2025-08-10 19:50:03,2025-12-27 16:26:53,
+C300671,Care Pillai Clinic,Chemist,,,Jaipur,Rajasthan,Central,REG764427,Active,2023-11-16,B,2025-09-16 08:08:22,2026-01-11 09:59:10,
+C300672,Care Yadav Medicals,Clinic,Diabetologist,Care Cuttack,Cuttack,Odisha,East,REG653647,Active,2022-01-30,C,2025-06-01 15:59:11,2026-01-26 10:14:03,
+C300673,Hope Chawla Hospital,Clinic,Dermatologist,Fortis Guwahati,Guwahati,Assam,East,REG731713,Inactive,2018-10-13,B,2025-04-25 15:04:41,2026-01-01 20:36:39,Legacy mapped
+C300674,Dr. Sharma Care,Clinic,Oncologist,Global Panaji,Panaji,Goa,West,REG486035,Active,2019-02-20,B,2023-06-01 17:54:31,2025-06-29 14:03:23,Legacy mapped
+C300675, Dr. Gupta Care  ,Clinic,Oncologist,Aster Hubballi,Hubballi,Karnataka,South,REG213613,Active,2024-12-18,C,2024-08-14 02:42:03,2025-04-19 13:31:20,
+C300676,City Pillai Medicals,Hospital,Oncologist,Fortis Durg,Durg,Chhattisgarh,West,REG578215,Active,19-05-2017,C,2025-09-19 00:39:29,2025-02-21 16:16:26,Needs clean-up
+C300677,Prime Gupta Pharmacy,Clinic,Gastroenterologist,Fortis Gwalior,Gwalior,Madhya Pradesh,Central,REG940916,Active,2020/11/14,A,2025-10-01 09:26:59,2025-01-25 02:02:01,Needs clean-up
+C300678,dr. chawla pharmacy,Doctor,Pulmonologist,Max Gaya,Gaya,Bihar,Central,REG808402,Active,2025-05-05,A,2023-01-18 12:06:00,2025-09-27 10:50:15,Needs clean-up
+C300679,Dr. Sharma Clinic,Doctor,General Physician,Max Noida,Noida,Delhi,North,REG277496,Active,2019-06-13,C,2023-03-27 10:06:54,2026-01-17 01:07:59,
+C300680,Prime Mehta Medicals,Hospital,Dermatologist,Aster Gwalior,Gwalior,Madhya Pradesh,Central,REG557567,Active,2017-09-23,A,2023-08-14 09:39:19,2025-02-10 02:50:51,Needs clean-up
+C300681,Care Reddy Medicals,Hospital,Diabetologist,Max Madurai,Madurai,Tamil Nadu,South,REG718737,Inactive,2021-05-01,A,2025-06-05 14:09:06,2025-02-02 15:01:55,Legacy mapped
+C300682,Care Verma Clinic,Chemist,,,Gaya,Bihar,East,REG264292,Inactive,24 Oct 2022,A,2024-10-28 08:40:33,2025-01-26 10:44:29,Unverified
+C300683,Hospital Mehta Clinic,Chemist,,,Lucknow,Uttar Pradesh,Central,REG493005,Active,12 Mar 2022,B,2024-08-11 16:28:31,2025-03-05 21:12:09,
+C300684,Hope Nair Care,Hospital,Cardiologist,Yashoda Mysuru,Mysuru,Karnataka,South,REG545971,Active,2022-03-09,B,2024-09-21 16:56:10,2025-04-02 16:47:31,
+C300685,Prime Mishra Medicals,Doctor,General Physician,Apollo Vadodara,Vadodara,Gujarat,West,REG505477,Active,2025-07-01,B,2023-12-24 18:24:02,2025-11-20 05:50:45,Needs clean-up
+C300686,Care Das Care,Doctor,Cardiologist,Medanta Dibrugarh,Dibrugarh,Assam,East,REG724274,Active,2020-08-06,C,2025-10-25 08:46:19,2025-07-28 11:29:29,
+C300687,Care Iyer Pharmacy,Hospital,Neurologist,Global Vijayawada,Vijayawada,Andhra Pradesh,South,REG983238,Active,2022-03-17,A,2023-10-27 05:51:29,2026-01-28 12:27:20,Unverified
+C300688,Prime Chawla Hospital,Chemist,,,Kanpur,Uttar Pradesh,Central,REG459411,Active,2019-02-14,C,2023-03-03 23:01:09,2025-11-26 03:54:19,Legacy mapped
+C300689,Hospital Joshi Medicals,Chemist,,,Indore,Madhya Pradesh,West,REG243078,Blacklisted,2020-09-25,C,2024-05-16 06:22:24,2025-08-02 16:51:10,Legacy mapped
+C300690,Prime Das Hospital,Chemist,,,Udaipur,Rajasthan,Central,REG255985,Active,2019-06-25,C,2023-01-02 03:12:14,2026-02-19 20:29:40,Needs clean-up
+C300691,Life Sharma Care,Clinic,Neurologist,Fortis Jaipur,Jaipur,Rajasthan,North,REG182822,Active,2018-03-19,C,2025-02-18 04:13:04,2025-07-01 07:39:17,Legacy mapped
+C300692,CITY YADAV HOSPITAL,Clinic,Neurologist,Aster Bhopal,Bhopal,Madhya Pradesh,Central,REG729294,Active,2017-04-03,B,2025-06-18 23:38:48,2026-02-07 04:07:55,Unverified
+C300693,Dr. Kulkarni Hospital,Doctor,Cardiologist,Apollo Gurugram,Gurugram,Delhi,North,,Active,2025-05-31,A,2025-02-07 10:25:36,2025-05-29 04:28:41,Needs clean-up
+C300694,Prime Singh Clinic,Clinic,Diabetologist,Care Kochi,Kochi,Kerala,South,REG337320,Active,21-06-2020,A,2023-05-06 14:21:14,2025-11-02 16:55:54,Needs clean-up
+C300695,Life Mishra Clinic,Hospital,Pulmonologist,Apollo Gurugram,Gurugram,Haryana,North,REG802821,Blacklisted,2021-04-12,A,2024-07-30 06:32:46,2025-04-14 23:32:55,
+C300696,Care Verma Hospital,Chemist,,,Indore,Madhya Pradesh,West,REG372173,Active,2020-04-14,B,2024-11-19 04:50:32,2025-10-29 15:51:52,Legacy mapped
+C300697,Hospital Mishra Hospital,Hospital,Gastroenterologist,Medanta Muzaffarpur,Muzaffarpur,Bihar,East,,Active,2018-05-16,A,2023-01-20 03:19:40,2025-10-30 19:25:07,
+C300698,Care Singh Medicals,Chemist,,,Gwalior,Madhya Pradesh,West,REG856337,Active,2023-02-17,B,2025-02-26 04:47:27,2025-11-01 05:54:50,Legacy mapped
+C300699,Dr. Nair Hospital,Doctor,Oncologist,Manipal Thiruvananthapuram,Thiruvananthapuram,Kerala,South,REG790767,Active,2021-06-28,C,2024-02-27 14:53:52,2025-09-07 21:47:13,
+C300700,Hope Das Care,Chemist,,,Hyderabad,Telangana,South,REG873943,Active,2020-12-08,B,2024-05-01 21:13:23,2025-10-13 06:26:09,Unverified
+C300701,Care Kapoor Medicals,Doctor,Neurologist,Manipal Raipur,Raipur,Chhattisgarh,Central,REG674240,Active,2017-10-08,A,2024-10-24 21:56:38,2025-04-21 11:57:44,
+C300702,Life Iyer Pharmacy,Chemist,,,Faridabad,Haryana,North,REG394252,Active,2018-05-26,B,2023-06-18 04:00:41,2025-11-03 19:09:59,Needs clean-up
+C300703,City Das Pharmacy,Hospital,Pulmonologist,Narayana Muzaffarpur,Muzaffarpur,Bihar,Central,REG789239,Active,2024/10/09,B,2024-12-25 01:52:24,2025-07-12 19:37:06,Legacy mapped
+C300704,Care Patel Pharmacy,Chemist,,,Noida,Uttar Pradesh,Central,REG315441,Active,2017-12-23,B,2025-02-20 20:45:34,2025-06-12 09:01:10,Needs clean-up
+C300705,City Sharma Clinic,Clinic,General Physician,Aster Hubballi,Hubballi,Karnataka,South,REG342111,Active,2023-03-03,B,2023-12-18 04:38:42,2025-02-15 13:52:22,Needs clean-up
+C300706,City Gupta Medicals,Clinic,General Physician,Care Jalandhar,Jalandhar,Punjab,North,REG802712,Active,2020-08-09,B,2024-09-22 06:01:00,2025-08-26 20:18:50,Unverified
+C300707,City Mishra Pharmacy,Doctor,Pulmonologist,Narayana Indore,Indore,Madhya Pradesh,West,REG625783,Active,2019-04-02,A,2025-01-21 07:54:50,2025-05-05 22:27:12,
+C300708,City Pillai Pharmacy,Clinic,Neurologist,Apollo Dhanbad,Dhanbad,Jharkhand,East,REG161191,Active,2020-10-10,A,2025-07-23 23:24:27,2025-08-07 01:59:24,Unverified
+C300709,Dr. Verma Pharmacy,Clinic,Diabetologist,Aster Jodhpur,Jodhpur,Rajasthan,North,REG988547,Active,07/24/2025,B,2024-07-09 03:41:45,2025-05-13 02:11:43,Unverified
+C300710,Hope Singh Hospital,Chemist,,,Gurugram,Haryana,North,REG152516,Active,2023-03-12,C,2023-11-15 00:57:32,2025-09-07 03:24:40,Legacy mapped
+C300711,Life Patel Medicals,Hospital,Oncologist,Global Jaipur,Jaipur,Rajasthan,Central,REG331091,Active,2023-11-06,C,2025-09-05 19:08:06,2025-07-31 10:00:06,
+C300712,Dr. Pillai Care,Doctor,Dermatologist,Aster Margao,Margao,Goa,West,REG816884,Active,2018-06-01,B,2023-09-26 09:38:50,2025-02-14 10:08:43,Legacy mapped
+C300713,Care Patel Pharmacy,Clinic,Dermatologist,Manipal Kochi,Kochi,Kerala,South,REG187499,Active,2022-03-03,B,2024-05-18 03:15:20,2025-03-12 22:50:47,Needs clean-up
+C300714,life kapoor hospital,Hospital,Neurologist,Narayana Surat,Surat,Gujarat,West,REG544448,Active,2021-04-20,A,2023-08-13 14:10:30,2025-02-18 10:16:34,Legacy mapped
+C300715,Care Reddy Clinic,Hospital,Cardiologist,Apollo Vadodara,Vadodara,Gujarat,West,REG397009,Active,2020-06-28,C,2025-05-01 20:32:28,2025-06-16 14:19:41,Unverified
+C300716,Dr. Pillai Pharmacy,Hospital,Pulmonologist,Yashoda Margao,Margao,Goa,West,REG210868,Active,2020-08-28,C,2025-09-29 15:17:52,2025-01-21 11:03:13,
+C300717,Care Verma Medicals,Clinic,Pulmonologist,Aster Kolkata,Kolkata,West Bengal,East,REG538433,Active,2024-09-26,C,2024-03-24 17:31:50,2025-05-17 09:30:56,Needs clean-up
+C300718,Care Gupta Medicals,Hospital,Cardiologist,Manipal Amritsar,Amritsar,Punjab,North,REG971605,Active,2025-09-16,B,2023-10-05 19:46:46,2025-11-14 14:26:53,Needs clean-up
+C300719,Prime Das Care,Clinic,General Physician,Global Ranchi,Ranchi,Jharkhand,East,REG494114,Active,2022-02-04,B,2024-09-29 03:02:55,2026-01-12 21:35:16,Legacy mapped
+C300720,City Verma Care,Hospital,Cardiologist,Medanta Patna,Patna,Bihar,Central,123,Active,2025-06-21,C,2024-01-11 15:47:43,2025-02-28 15:12:43,Legacy mapped
+C300055,Care Gupta Pharmacy,Clinic,Pulmonologist,Manipal Vadodara,Vadodara,Gujarat,West,REG767132,Inactive,2020-02-06,A,2024-03-07 03:36:33,2025-06-12 18:24:31,
+C300217,Dr. Bose Medicals,Hospital,Cardiologist,Global Nagpur,Nagpur,Maharashtra,West,REG924955,Active,2017-01-13,A,2025-06-28 20:17:41,2025-08-13 23:51:14,
+C300082,Care Chawla Pharmacy,Clinic,Diabetologist,Manipal Durgapur,Durgapur,West Bengal,East,REG630399,Inactive,2025-07-05,C,2024-04-20 15:41:25,2025-07-01 08:13:38,Unverified
+C300681,Care Reddy Medicals,Hospital,Diabetologist,Max Madurai,Madurai,Tamil Nadu,South,REG718737,Inactive,2021-05-01,A,2025-06-05 14:09:06,2025-02-02 15:01:55,Legacy mapped
+C300012,Dr. Das Clinic,Clinic,Pulmonologist,Max Patna,Patna,Bihar,East,REG984936,Active,2025-01-21,B,2025-01-24 05:33:45,2026-03-08 10:47:38,Unverified
+C300448,city iyer clinic,Clinic,Dermatologist,Apollo Raipur,Raipur,Chhattisgarh,West,REG164397,Blacklisted,2025-07-25,B,2023-12-15 05:13:55,2025-12-29 18:29:24,Needs clean-up
+C300407,Care Pillai Hospital,Clinic,Neurologist,Max Gurugram,Gurugram,Haryana,North,REG642396,Active,2024-04-23,A,2025-09-10 14:52:58,2026-01-08 18:47:54,Legacy mapped
+C300405,Dr. Nair Care,Chemist,,,Cuttack,Odisha,East,REG150747,Inactive,2017-11-09,C,2023-12-28 16:39:15,2025-05-11 16:10:34,
+C300289,Dr. Reddy Hospital,Chemist,,,Bilaspur,Chhattisgarh,West,REG504954,Active,2024-10-29,B,2025-11-12 21:20:53,2025-08-07 10:40:08,Unverified
+C300447,Dr. Joshi Care,Doctor,Dermatologist,Yashoda Ranchi,Ranchi,Jharkhand,East,,Active,2025-08-14,C,2025-11-13 00:00:44,2025-05-07 00:00:21,Legacy mapped
