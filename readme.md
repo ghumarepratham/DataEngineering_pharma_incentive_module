@@ -21,13 +21,13 @@ Medallion Architecture:
 - Delta Lake
 - Azure Data Factory (Pipelines, Triggers)
 - Unity Catalog
-- Azure Logic Apps (Alerts)
+- Azure Logic Apps (Email-Alerts)
 - Power BI
 
 ---
 
 ## 🔄 Pipeline Flow
-1. Ingest data via ADF  
+1. Ingest data via Azure to databricks  
 2. Store in Bronze layer  
 3. Clean & transform in Silver  
 4. Calculate incentives in Gold  
@@ -36,7 +36,7 @@ Medallion Architecture:
 ---
 
 ## 🔁 Automation
-- ADF pipelines with schedule & event triggers  
+- Azure LogicApp & event triggers  
 - Databricks Jobs & Workflows for ETL automation  
 
 ---
