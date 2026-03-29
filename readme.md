@@ -76,4 +76,4 @@ gold/
 ✔ Scalable pipeline  
 ✔ Automated workflows  
 ✔ Real-time monitoring  
-✔ Industry-standard design  
+✔ Industry-standard designs  
